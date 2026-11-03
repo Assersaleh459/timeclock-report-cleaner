@@ -1,0 +1,1742 @@
+EmpID,Name,Department,Date,Time,PunchType
+E1001,Allison Hill,Customer Service,01/10/2026,07:48,IN
+E1001,Allison Hill,Customer Service,Oct 1 2026,17:06,OUT
+E1002,Noah Rhodes,Warehouse,Oct 1 2026,06:22,IN
+E1002,Noah Rhodes,Warehouse,2026-10-01,17:38,OUT
+E1002,Noah Rhodes,Warehouse,2026-10-01,17:38,OUT
+E1003,Angie Henderson,Warehouse,01/10/2026,06:46,IN
+E1003,Angie   Henderson,Warehouse,01/10/2026,17:34,OUT
+E1004,Daniel Wagner,Customer Service,Oct 1 2026,09:05,IN
+E1004,Daniel Wagner,Customer Service,2026-10-01,18:18,OUT
+E1005,CRISTIAN SANTOS  ,Drivers,Oct 1 2026,08:36,IN
+E1005,cristian   santos,Drivers,2026-10-01,16:45,OUT
+E1006,Connie Lawrence,Dispatch,Oct 1 2026,07:49,IN
+E1006,Connie Lawrence,Dispatch,Oct 1 2026,17:05,OUT
+E1007,Abigail Shaffer,Dispatch,2026-10-01,06:24,IN
+E1007,Abigail Shaffer,Dispatch,Oct 1 2026,17:29,OUT
+E1008,Gina Moore,Dispatch,2026-10-01,08:10,IN
+E1008,Gina Moore,Dispatch,01/10/2026,17:22,OUT
+E1009,Gabrielle Davis,Customer Service,2026-10-01,08:44,IN
+E1009,Gabrielle Davis,Customer Service,2026-10-01,18:41,OUT
+E1010,Ryan Munoz,Warehouse,Oct 1 2026,07:34,IN
+E1010,  RYAN MUNOZ,Warehouse,Oct 1 2026,18:15,OUT
+E1011,Monica Herrera,Customer Service,Oct 1 2026,09:17,IN
+E1011,Monica Herrera,Customer Service,2026-10-01,18:44,OUT
+E1012,Jamie Arnold,Customer Service,Oct 1 2026,08:53,IN
+E1012,Jamie Arnold,Customer Service,Oct 1 2026,16:14,OUT
+E1013,Lisa Hensley,HR,01/10/2026,08:25,IN
+E1013,Lisa Hensley,HR,01/10/2026,17:04,OUT
+E1014,MICHELE WILLIAMS  ,Warehouse,2026-10-01,08:13,IN
+E1014,Michele Williams,Warehouse,2026-10-01,18:31,OUT
+E1015,  dylan miller,HR,01/10/2026,09:09,IN
+E1015,Dylan Miller,HR,2026-10-01,17:08,OUT
+E1016,Brian Ramirez,Finance,2026-10-01,08:47,IN
+E1016,Brian Ramirez,Finance,01/10/2026,18:27,OUT
+E1017,Holly Wood,Warehouse,01/10/2026,09:23,IN
+E1017,Holly Wood,Warehouse,2026-10-01,16:08,OUT
+E1018,Derek Zuniga,Warehouse,2026-10-01,06:48,IN
+E1018,Derek Zuniga,Warehouse,Oct 1 2026,16:55,OUT
+E1019,lisa   jackson,Warehouse,2026-10-01,07:50,IN
+E1019,Lisa Jackson,Warehouse,Oct 1 2026,18:27,OUT
+E1020,Carla Gray,Dispatch,01/10/2026,09:24,IN
+E1020,Carla   Gray,Dispatch,01/10/2026,18:29,OUT
+E1021,Margaret   Hawkins   Dds,Dispatch,01/10/2026,06:43,IN
+E1021,Margaret Hawkins DDS,Dispatch,01/10/2026,18:07,OUT
+E1022,Patty Perez,HR,2026-10-01,08:49,IN
+E1022,Patty Perez,HR,2026-10-01,18:21,OUT
+E1023,ETHAN   ADAMS,HR,Oct 1 2026,09:10,IN
+E1023,Ethan Adams,HR,01/10/2026,17:00,OUT
+E1024,Tommy Walter,Warehouse,2026-10-01,08:32,IN
+E1024,Tommy Walter,Warehouse,Oct 1 2026,16:32,OUT
+E1025,Matthew Foster,HR,Oct 1 2026,08:53,IN
+E1025,Matthew Foster,HR,Oct 1 2026,18:32,OUT
+E1025,Matthew Foster,HR,Oct 1 2026,18:32,OUT
+E1026,Judy Baker,Dispatch,01/10/2026,07:23,IN
+E1026,Judy Baker,Dispatch,Oct 1 2026,16:34,OUT
+E1027,Justin Baker,Customer Service,01/10/2026,06:38,IN
+E1027,Justin Baker,Customer Service,Oct 1 2026,17:31,OUT
+E1029,Zachary Hicks,Customer Service,Oct 1 2026,08:15,IN
+E1029,Zachary Hicks,Customer Service,Oct 1 2026,16:15,OUT
+E1030,Anthony Rodriguez,HR,2026-10-01,06:05,IN
+E1030,Anthony Rodriguez,HR,01/10/2026,18:31,OUT
+E1031,Rebecca Henderson,Finance,Oct 1 2026,07:08,IN
+E1031,Rebecca Henderson,Finance,01/10/2026,18:30,OUT
+E1032,James Ferrell,Dispatch,01/10/2026,07:16,IN
+E1032,James Ferrell,Dispatch,Oct 1 2026,18:55,OUT
+E1033,Tricia Valencia,Finance,Oct 1 2026,07:59,IN
+E1033,Tricia Valencia,Finance,2026-10-01,18:48,OUT
+E1034,Nathan Maldonado,HR,Oct 1 2026,07:45,IN
+E1034,Nathan Maldonado,HR,01/10/2026,17:25,OUT
+E1035,Debra Davidson,Drivers,01/10/2026,08:28,IN
+E1035,Debra Davidson,Drivers,2026-10-01,18:28,OUT
+E1036,Jeffrey Chavez,Warehouse,Oct 1 2026,07:04,IN
+E1036,Jeffrey Chavez,Warehouse,01/10/2026,17:01,OUT
+E1037,Sherri Baker,Dispatch,01/10/2026,07:37,IN
+E1037,Sherri Baker,Dispatch,01/10/2026,16:00,OUT
+E1038,Cassandra Gaines,Customer Service,01/10/2026,06:14,IN
+E1038,Cassandra Gaines,Customer Service,01/10/2026,16:57,OUT
+E1040,Brittany Farmer,Drivers,Oct 1 2026,07:17,IN
+E1040,Brittany Farmer,Drivers,2026-10-01,18:31,OUT
+E1001,allison   hill,Customer Service,Oct 2 2026,07:46,IN
+E1001,Allison Hill  ,Customer Service,2026-10-02,18:36,OUT
+E1002,Noah Rhodes,Warehouse,02/10/2026,09:51,IN
+E1002,Noah Rhodes,Warehouse,2026-10-02,17:12,OUT
+E1003,angie   henderson,Warehouse,2026-10-02,09:22,IN
+E1003,Angie Henderson,Warehouse,2026-10-02,17:26,OUT
+E1004,Daniel Wagner,Customer Service,Oct 2 2026,06:43,IN
+E1004,Daniel Wagner,Customer Service,Oct 2 2026,18:41,OUT
+E1005,Cristian Santos,Drivers,02/10/2026,09:46,IN
+E1005,Cristian Santos,Drivers,2026-10-02,17:51,OUT
+E1006,Connie Lawrence,Dispatch,2026-10-02,07:12,IN
+E1006,Connie Lawrence,Dispatch,2026-10-02,16:34,OUT
+E1007,Abigail Shaffer,Dispatch,2026-10-02,09:11,IN
+E1007,Abigail Shaffer,Dispatch,02/10/2026,17:29,OUT
+E1008,Gina Moore,Dispatch,Oct 2 2026,06:28,IN
+E1008,Gina Moore,Dispatch,Oct 2 2026,18:06,OUT
+E1009,Gabrielle Davis,Customer Service,2026-10-02,06:05,IN
+E1009,gabrielle   davis,Customer Service,Oct 2 2026,16:10,OUT
+E1010,Ryan Munoz,Warehouse,2026-10-02,09:13,IN
+E1010,Ryan Munoz,Warehouse,02/10/2026,17:57,OUT
+E1011,Monica Herrera,Customer Service,02/10/2026,09:00,IN
+E1011,Monica Herrera,Customer Service,Oct 2 2026,17:16,OUT
+E1012,Jamie Arnold  ,Customer Service,2026-10-02,09:18,IN
+E1012,jamie   arnold,Customer Service,02/10/2026,17:44,OUT
+E1013,Lisa Hensley,HR,Oct 2 2026,09:09,IN
+E1013,Lisa Hensley,HR,02/10/2026,16:18,OUT
+E1014,Michele Williams  ,Warehouse,02/10/2026,06:37,IN
+E1014,Michele Williams,Warehouse,2026-10-02,18:34,OUT
+E1015,Dylan Miller,HR,Oct 2 2026,08:03,IN
+E1015,Dylan Miller,HR,2026-10-02,16:37,OUT
+E1016,Brian Ramirez,Finance,Oct 2 2026,07:03,IN
+E1016,Brian Ramirez,Finance,02/10/2026,18:05,OUT
+E1017,Holly Wood,Warehouse,2026-10-02,06:38,IN
+E1017,  HOLLY WOOD,Warehouse,2026-10-02,16:43,OUT
+E1018,  DEREK ZUNIGA,Warehouse,2026-10-02,09:07,IN
+E1018,Derek Zuniga,Warehouse,2026-10-02,18:15,OUT
+E1019,Lisa Jackson,Warehouse,Oct 2 2026,06:39,IN
+E1019,Lisa Jackson,Warehouse,Oct 2 2026,16:26,OUT
+E1020,Carla Gray,Dispatch,2026-10-02,08:59,IN
+E1020,Carla Gray,Dispatch,2026-10-02,17:13,OUT
+E1021,Margaret Hawkins DDS,Dispatch,Oct 2 2026,08:15,IN
+E1022,Patty Perez,HR,Oct 2 2026,08:29,IN
+E1022,patty perez  ,HR,2026-10-02,17:59,OUT
+E1023,Ethan Adams,HR,Oct 2 2026,06:00,IN
+E1023,Ethan Adams,HR,Oct 2 2026,06:00,IN
+E1023,Ethan Adams,HR,2026-10-02,17:39,OUT
+E1024,Tommy Walter,Warehouse,2026-10-02,06:04,IN
+E1024,Tommy Walter,Warehouse,2026-10-02,18:13,OUT
+E1025,Matthew Foster,HR,02/10/2026,07:59,IN
+E1025,Matthew Foster,HR,2026-10-02,17:56,OUT
+E1026,Judy Baker,Dispatch,Oct 2 2026,07:23,IN
+E1026,Judy Baker,Dispatch,02/10/2026,17:10,OUT
+E1027,Justin Baker,Customer Service,Oct 2 2026,08:39,IN
+E1027,Justin Baker,Customer Service,Oct 2 2026,18:33,OUT
+E1029,Zachary Hicks,Customer Service,Oct 2 2026,08:59,IN
+E1029,Zachary Hicks,Customer Service,2026-10-02,18:06,OUT
+E1030,Anthony Rodriguez,HR,Oct 2 2026,07:16,IN
+E1030,Anthony Rodriguez,HR,Oct 2 2026,16:56,OUT
+E1031,REBECCA HENDERSON  ,Finance,Oct 2 2026,07:17,IN
+E1031,Rebecca Henderson,Finance,02/10/2026,17:38,OUT
+E1032,James Ferrell,Dispatch,2026-10-02,08:13,IN
+E1032,James Ferrell,Dispatch,2026-10-02,18:40,OUT
+E1033,Tricia Valencia,Finance,02/10/2026,09:16,IN
+E1033,Tricia Valencia,Finance,Oct 2 2026,16:05,OUT
+E1034,Nathan Maldonado,HR,02/10/2026,08:02,IN
+E1034,Nathan Maldonado,HR,02/10/2026,16:21,OUT
+E1035,Debra Davidson,Drivers,2026-10-02,08:10,IN
+E1035,Debra Davidson,Drivers,2026-10-02,18:28,OUT
+E1036,Jeffrey Chavez,Warehouse,02/10/2026,09:35,IN
+E1036,Jeffrey Chavez,Warehouse,Oct 2 2026,16:07,OUT
+E1037,sherri baker  ,Dispatch,2026-10-02,07:34,IN
+E1037,Sherri Baker,Dispatch,Oct 2 2026,16:53,OUT
+E1038,Cassandra Gaines,Customer Service,2026-10-02,07:27,IN
+E1038,Cassandra Gaines,Customer Service,Oct 2 2026,16:02,OUT
+E1039,Elizabeth Fowler,Finance,Oct 2 2026,06:57,IN
+E1039,Elizabeth Fowler,Finance,Oct 2 2026,17:13,OUT
+E1040,Brittany Farmer,Drivers,02/10/2026,06:22,IN
+E1040,Brittany Farmer,Drivers,2026-10-02,18:56,OUT
+E1001,Allison Hill  ,Customer Service,Oct 5 2026,07:59,IN
+E1001,Allison Hill,Customer Service,Oct 5 2026,16:55,OUT
+E1002,Noah Rhodes,Warehouse,05/10/2026,07:56,IN
+E1002,Noah Rhodes,Warehouse,05/10/2026,17:01,OUT
+E1003,Angie Henderson,Warehouse,Oct 5 2026,08:50,IN
+E1003,Angie Henderson,Warehouse,Oct 5 2026,17:51,OUT
+E1004,Daniel Wagner,Customer Service,2026-10-05,07:17,IN
+E1004,Daniel Wagner,Customer Service,2026-10-05,16:50,OUT
+E1005,Cristian Santos,Drivers,05/10/2026,09:55,IN
+E1005,Cristian Santos,Drivers,05/10/2026,16:54,OUT
+E1006,Connie Lawrence,Dispatch,2026-10-05,07:52,IN
+E1006,Connie Lawrence,Dispatch,2026-10-05,17:22,OUT
+E1007,ABIGAIL   SHAFFER,Dispatch,2026-10-05,07:14,IN
+E1007,Abigail Shaffer,Dispatch,2026-10-05,16:42,OUT
+E1008,Gina Moore,Dispatch,Oct 5 2026,08:17,IN
+E1008,Gina Moore,Dispatch,Oct 5 2026,16:49,OUT
+E1009,Gabrielle Davis,Customer Service,Oct 5 2026,09:43,IN
+E1009,Gabrielle Davis,Customer Service,05/10/2026,18:21,OUT
+E1010,Ryan Munoz,Warehouse,2026-10-05,06:56,IN
+E1010,Ryan Munoz,Warehouse,Oct 5 2026,17:11,OUT
+E1011,Monica Herrera,Customer Service,2026-10-05,08:02,IN
+E1011,Monica Herrera,Customer Service,2026-10-05,16:38,OUT
+E1012,Jamie Arnold,Customer Service,05/10/2026,08:27,IN
+E1012,Jamie Arnold,Customer Service,Oct 5 2026,18:32,OUT
+E1013,Lisa Hensley,HR,Oct 5 2026,07:16,IN
+E1013,Lisa Hensley,HR,2026-10-05,16:45,OUT
+E1014,Michele Williams,Warehouse,Oct 5 2026,07:23,IN
+E1014,Michele Williams,Warehouse,Oct 5 2026,07:23,IN
+E1014,Michele   Williams,Warehouse,Oct 5 2026,17:04,OUT
+E1015,Dylan Miller,HR,2026-10-05,08:39,IN
+E1015,Dylan   Miller,HR,2026-10-05,17:42,OUT
+E1016,Brian Ramirez,Finance,05/10/2026,08:32,IN
+E1016,  BRIAN RAMIREZ,Finance,Oct 5 2026,17:42,OUT
+E1017,Holly Wood,Warehouse,2026-10-05,09:44,IN
+E1017,Holly Wood,Warehouse,Oct 5 2026,17:35,OUT
+E1018,Derek Zuniga,Warehouse,Oct 5 2026,09:42,IN
+E1018,Derek Zuniga,Warehouse,2026-10-05,17:43,OUT
+E1019,Lisa Jackson,Warehouse,Oct 5 2026,07:39,IN
+E1019,Lisa Jackson,Warehouse,Oct 5 2026,18:19,OUT
+E1020,Carla Gray,Dispatch,05/10/2026,06:19,IN
+E1020,Carla Gray,Dispatch,Oct 5 2026,17:13,OUT
+E1021,Margaret Hawkins DDS,Dispatch,05/10/2026,08:29,IN
+E1021,MARGARET   HAWKINS   DDS,Dispatch,05/10/2026,17:28,OUT
+E1022,Patty Perez,HR,2026-10-05,09:50,IN
+E1022,Patty Perez,HR,Oct 5 2026,18:10,OUT
+E1023,Ethan Adams,HR,Oct 5 2026,08:32,IN
+E1023,Ethan Adams,HR,05/10/2026,18:40,OUT
+,Tommy Walter,Warehouse,2026-10-05,06:52,IN
+E1024,Tommy Walter,Warehouse,05/10/2026,16:43,OUT
+E1025,Matthew Foster,HR,05/10/2026,07:09,IN
+E1025,Matthew Foster,HR,05/10/2026,16:02,OUT
+E1026,Judy Baker,Dispatch,Oct 5 2026,09:39,IN
+E1026,Judy Baker  ,Dispatch,Oct 5 2026,16:29,OUT
+E1027,Justin Baker,Customer Service,Oct 5 2026,07:45,IN
+E1027,Justin   Baker,Customer Service,Oct 5 2026,18:24,OUT
+E1028,Stephanie   Ross,Customer Service,2026-10-05,07:09,IN
+E1028,Stephanie Ross,Customer Service,05/10/2026,18:44,OUT
+E1030,Anthony Rodriguez,HR,2026-10-05,06:49,IN
+E1030,  Anthony Rodriguez,HR,05/10/2026,17:14,OUT
+E1031,Rebecca Henderson,Finance,05/10/2026,09:03,IN
+E1031,Rebecca Henderson,Finance,2026-10-05,18:15,OUT
+E1032,James Ferrell,Dispatch,2026-10-05,06:29,IN
+E1032,JAMES   FERRELL,Dispatch,05/10/2026,16:51,OUT
+E1033,Tricia Valencia,Finance,Oct 5 2026,08:48,IN
+E1033,Tricia Valencia,Finance,Oct 5 2026,17:39,OUT
+E1034,NATHAN MALDONADO  ,HR,05/10/2026,09:53,IN
+E1034,Nathan Maldonado,HR,05/10/2026,18:28,OUT
+E1035,Debra Davidson,Drivers,2026-10-05,09:28,IN
+E1035,Debra Davidson,Drivers,2026-10-05,17:48,OUT
+E1036,Jeffrey   Chavez,Warehouse,Oct 5 2026,08:49,IN
+E1036,Jeffrey Chavez,Warehouse,Oct 5 2026,18:31,OUT
+E1037,Sherri Baker,Dispatch,2026-10-05,08:28,IN
+E1037,Sherri Baker,Dispatch,2026-10-05,08:28,IN
+E1037,Sherri Baker,Dispatch,Oct 5 2026,16:45,OUT
+E1038,Cassandra Gaines,Customer Service,Oct 5 2026,08:21,IN
+E1038,  CASSANDRA GAINES,Customer Service,2026-10-05,17:57,OUT
+E1039,Elizabeth Fowler,Finance,Oct 5 2026,07:09,IN
+E1039,Elizabeth Fowler,Finance,2026-10-05,16:24,OUT
+E1040,Brittany Farmer,Drivers,05/10/2026,07:04,IN
+E1040,Brittany Farmer,Drivers,Oct 5 2026,17:26,OUT
+E1001,Allison Hill,Customer Service,2026-10-06,09:26,IN
+E1001,Allison Hill,Customer Service,Oct 6 2026,16:13,OUT
+E1002,NOAH RHODES  ,Warehouse,06/10/2026,09:57,IN
+E1002,Noah Rhodes,Warehouse,06/10/2026,18:44,OUT
+E1004,Daniel Wagner,Customer Service,06/10/2026,09:30,IN
+E1004,Daniel Wagner,Customer Service,2026-10-06,16:22,OUT
+E1005,CRISTIAN SANTOS  ,Drivers,2026-10-06,09:54,IN
+E1005,Cristian Santos,Drivers,06/10/2026,17:34,OUT
+E1006,Connie Lawrence,Dispatch,Oct 6 2026,07:31,IN
+E1006,Connie Lawrence,Dispatch,Oct 6 2026,16:17,OUT
+E1007,Abigail   Shaffer,Dispatch,06/10/2026,06:24,IN
+E1007,Abigail Shaffer,Dispatch,06/10/2026,17:42,OUT
+E1007,Abigail Shaffer,Dispatch,06/10/2026,17:42,OUT
+E1008,Gina Moore,Dispatch,Oct 6 2026,09:46,IN
+E1008,Gina Moore,Dispatch,06/10/2026,16:53,OUT
+E1009,  gabrielle davis,Customer Service,Oct 6 2026,07:39,IN
+E1009,Gabrielle Davis,Customer Service,06/10/2026,18:01,OUT
+E1010,Ryan Munoz,Warehouse,Oct 6 2026,06:05,IN
+E1010,Ryan Munoz,Warehouse,06/10/2026,18:27,OUT
+E1011,Monica Herrera,Customer Service,Oct 6 2026,09:11,IN
+E1011,Monica Herrera,Customer Service,06/10/2026,16:16,OUT
+E1012,Jamie Arnold,Customer Service,2026-10-06,07:29,IN
+E1012,  jamie arnold,Customer Service,06/10/2026,17:21,OUT
+E1013,LISA   HENSLEY,HR,Oct 6 2026,09:17,IN
+E1013,Lisa Hensley,HR,Oct 6 2026,17:16,OUT
+E1014,Michele Williams,Warehouse,06/10/2026,09:01,IN
+E1014,Michele Williams,Warehouse,2026-10-06,18:34,OUT
+E1015,Dylan Miller,HR,06/10/2026,08:14,IN
+E1015,Dylan Miller,HR,Oct 6 2026,18:04,OUT
+E1016,Brian Ramirez,Finance,Oct 6 2026,06:48,IN
+E1016,Brian Ramirez,Finance,06/10/2026,16:15,OUT
+E1017,Holly Wood,Warehouse,06/10/2026,06:39,IN
+E1017,Holly   Wood,Warehouse,06/10/2026,16:15,OUT
+E1018,Derek Zuniga,Warehouse,Oct 6 2026,06:36,IN
+E1018,  DEREK ZUNIGA,Warehouse,06/10/2026,16:29,OUT
+E1019,Lisa   Jackson,Warehouse,Oct 6 2026,08:10,IN
+E1019,Lisa   Jackson,Warehouse,Oct 6 2026,08:10,IN
+E1019,Lisa Jackson,Warehouse,06/10/2026,18:38,OUT
+E1020,Carla Gray,Dispatch,Oct 6 2026,06:49,IN
+E1020,Carla Gray  ,Dispatch,2026-10-06,16:19,OUT
+E1021,Margaret Hawkins DDS,Dispatch,Oct 6 2026,06:59,IN
+E1021,Margaret Hawkins DDS,Dispatch,2026-10-06,17:36,OUT
+E1022,Patty Perez,HR,Oct 6 2026,09:25,IN
+E1022,Patty Perez,HR,2026-10-06,18:12,OUT
+E1023,Ethan Adams,HR,06/10/2026,07:06,IN
+E1023,ethan   adams,HR,Oct 6 2026,18:49,OUT
+E1024,Tommy Walter,Warehouse,2026-10-06,06:50,IN
+E1024,Tommy Walter,Warehouse,2026-10-06,18:50,OUT
+E1026,Judy Baker,Dispatch,2026-10-06,08:04,IN
+E1026,Judy Baker,Dispatch,Oct 6 2026,18:41,OUT
+E1027,Justin Baker,Customer Service,06/10/2026,09:52,IN
+E1027,  Justin Baker,Customer Service,06/10/2026,17:06,OUT
+E1028,STEPHANIE   ROSS,Customer Service,Oct 6 2026,08:40,IN
+E1028,Stephanie Ross,Customer Service,Oct 6 2026,17:45,OUT
+E1029,  zachary hicks,Customer Service,Oct 6 2026,07:46,IN
+E1029,Zachary Hicks,Customer Service,Oct 6 2026,18:41,OUT
+E1030,Anthony Rodriguez,HR,Oct 6 2026,09:29,IN
+E1031,Rebecca Henderson,Finance,2026-10-06,08:20,IN
+E1031,Rebecca Henderson,Finance,2026-10-06,16:53,OUT
+E1032,James Ferrell,Dispatch,06/10/2026,08:56,IN
+E1032,James Ferrell,Dispatch,Oct 6 2026,17:15,OUT
+E1033,Tricia Valencia,Finance,2026-10-06,09:21,IN
+E1033,Tricia Valencia,Finance,2026-10-06,16:31,OUT
+E1034,Nathan Maldonado,HR,2026-10-06,07:31,IN
+E1034,nathan maldonado  ,HR,06/10/2026,16:22,OUT
+E1035,Debra Davidson,Drivers,Oct 6 2026,08:17,IN
+E1035,Debra Davidson,Drivers,06/10/2026,18:44,OUT
+E1036,Jeffrey Chavez,Warehouse,2026-10-06,06:33,IN
+E1036,Jeffrey Chavez,Warehouse,2026-10-06,16:05,OUT
+E1037,Sherri Baker,Dispatch,06/10/2026,09:31,IN
+E1037,Sherri Baker,Dispatch,2026-10-06,18:48,OUT
+E1038,Cassandra Gaines,Customer Service,06/10/2026,09:41,IN
+E1038,Cassandra Gaines,Customer Service,2026-10-06,18:31,OUT
+E1039,Elizabeth Fowler,Finance,Oct 6 2026,06:05,IN
+E1039,Elizabeth Fowler,Finance,2026-10-06,17:14,OUT
+E1040,Brittany Farmer,Drivers,Oct 6 2026,07:19,IN
+E1040,Brittany   Farmer,Drivers,06/10/2026,18:37,OUT
+E1001,Allison Hill,Customer Service,07/10/2026,08:27,IN
+E1001,Allison Hill,Customer Service,Oct 7 2026,18:35,OUT
+E1002,Noah Rhodes  ,Warehouse,Oct 7 2026,09:17,IN
+E1002,Noah Rhodes,Warehouse,Oct 7 2026,17:16,OUT
+E1003,Angie Henderson,Warehouse,07/10/2026,07:20,IN
+E1003,Angie Henderson,Warehouse,Oct 7 2026,16:47,OUT
+E1004,Daniel Wagner,Customer Service,Oct 7 2026,07:12,IN
+E1004,Daniel   Wagner,Customer Service,2026-10-07,16:47,OUT
+E1005,Cristian Santos,Drivers,2026-10-07,08:06,IN
+E1005,Cristian Santos,Drivers,Oct 7 2026,16:18,OUT
+E1006,Connie Lawrence,Dispatch,07/10/2026,07:19,IN
+E1006,Connie Lawrence,Dispatch,07/10/2026,16:45,OUT
+E1007,Abigail Shaffer,Dispatch,2026-10-07,08:02,IN
+E1007,Abigail Shaffer,Dispatch,2026-10-07,16:35,OUT
+E1008,Gina Moore,Dispatch,Oct 7 2026,07:40,IN
+E1008,Gina Moore,Dispatch,Oct 7 2026,17:06,OUT
+E1009,Gabrielle Davis,Customer Service,07/10/2026,08:30,IN
+E1009,Gabrielle Davis,Customer Service,2026-10-07,17:28,OUT
+E1010,RYAN MUNOZ  ,Warehouse,2026-10-07,06:16,IN
+E1010,Ryan Munoz,Warehouse,Oct 7 2026,17:07,OUT
+E1011,Monica Herrera,Customer Service,Oct 7 2026,09:31,IN
+E1011,Monica Herrera,Customer Service,Oct 7 2026,16:36,OUT
+E1012,JAMIE ARNOLD  ,Customer Service,Oct 7 2026,06:09,IN
+E1012,Jamie Arnold,Customer Service,2026-10-07,16:51,OUT
+E1013,Lisa Hensley,HR,Oct 7 2026,08:05,IN
+E1013,Lisa Hensley,HR,2026-10-07,16:07,OUT
+E1014,Michele Williams,Warehouse,Oct 7 2026,09:38,IN
+E1014,Michele Williams,Warehouse,2026-10-07,18:50,OUT
+E1015,Dylan Miller,HR,07/10/2026,09:28,IN
+E1015,Dylan Miller,HR,2026-10-07,17:19,OUT
+E1016,Brian Ramirez,Finance,Oct 7 2026,09:19,IN
+E1016,BRIAN RAMIREZ  ,Finance,2026-10-07,18:39,OUT
+E1017,Holly Wood,Warehouse,2026-10-07,06:48,IN
+E1017,Holly Wood,Warehouse,2026-10-07,16:40,OUT
+E1018,Derek Zuniga,Warehouse,07/10/2026,06:10,IN
+E1018,Derek Zuniga,Warehouse,07/10/2026,16:11,OUT
+E1019,  Lisa Jackson,Warehouse,07/10/2026,07:00,IN
+E1019,Lisa Jackson,Warehouse,Oct 7 2026,17:28,OUT
+E1020,Carla Gray,Dispatch,07/10/2026,09:18,IN
+E1020,carla   gray,Dispatch,07/10/2026,16:14,OUT
+E1021,Margaret   Hawkins   Dds,Dispatch,Oct 7 2026,08:44,IN
+E1021,Margaret Hawkins DDS,Dispatch,2026-10-07,17:04,OUT
+E1022,Patty Perez,HR,Oct 7 2026,08:50,IN
+E1022,patty perez  ,HR,2026-10-07,18:37,OUT
+E1023,Ethan Adams,HR,Oct 7 2026,07:27,IN
+E1023,Ethan Adams,HR,Oct 7 2026,16:34,OUT
+E1024,Tommy Walter,Warehouse,2026-10-07,07:58,IN
+E1024,Tommy Walter,Warehouse,2026-10-07,17:52,OUT
+E1025,Matthew Foster,HR,Oct 7 2026,06:10,IN
+E1025,Matthew Foster,HR,07/10/2026,17:38,OUT
+E1026,Judy Baker,Dispatch,Oct 7 2026,08:28,IN
+E1026,Judy   Baker,Dispatch,Oct 7 2026,16:29,OUT
+E1027,Justin Baker,Customer Service,Oct 7 2026,09:17,IN
+E1027,Justin Baker,Customer Service,07/10/2026,18:34,OUT
+E1028,Stephanie Ross,Customer Service,07/10/2026,06:38,IN
+E1028,Stephanie Ross,Customer Service,07/10/2026,16:56,OUT
+E1029,Zachary   Hicks,Customer Service,2026-10-07,08:38,IN
+E1029,Zachary Hicks,Customer Service,Oct 7 2026,17:01,OUT
+E1030,Anthony Rodriguez,HR,2026-10-07,06:48,IN
+E1030,Anthony Rodriguez,HR,07/10/2026,18:52,OUT
+E1031,Rebecca Henderson,Finance,07/10/2026,06:48,IN
+E1031,Rebecca Henderson,Finance,Oct 7 2026,16:30,OUT
+E1032,James Ferrell,Dispatch,2026-10-07,09:58,IN
+E1032,James Ferrell,Dispatch,2026-10-07,09:58,IN
+E1032,James   Ferrell,Dispatch,07/10/2026,17:11,OUT
+,Tricia Valencia,Finance,2026-10-07,09:40,IN
+E1033,Tricia Valencia,Finance,07/10/2026,17:05,OUT
+E1034,Nathan Maldonado,HR,Oct 7 2026,09:21,IN
+E1034,Nathan Maldonado,HR,2026-10-07,17:42,OUT
+E1035,  debra davidson,Drivers,Oct 7 2026,07:21,IN
+E1035,Debra Davidson,Drivers,2026-10-07,17:44,OUT
+E1036,Jeffrey Chavez,Warehouse,Oct 7 2026,09:52,IN
+E1036,Jeffrey Chavez,Warehouse,07/10/2026,18:02,OUT
+E1037,Sherri Baker,Dispatch,07/10/2026,08:16,IN
+E1037,Sherri Baker,Dispatch,2026-10-07,17:07,OUT
+E1038,Cassandra Gaines,Customer Service,Oct 7 2026,09:55,IN
+E1038,Cassandra Gaines,Customer Service,07/10/2026,18:52,OUT
+E1039,Elizabeth Fowler,Finance,Oct 7 2026,09:26,IN
+E1039,Elizabeth Fowler,Finance,Oct 7 2026,16:12,OUT
+E1040,Brittany Farmer,Drivers,07/10/2026,09:40,IN
+E1040,brittany   farmer,Drivers,Oct 7 2026,17:48,OUT
+E1001,Allison Hill,Customer Service,08/10/2026,08:35,IN
+E1001,Allison Hill,Customer Service,08/10/2026,16:59,OUT
+E1002,Noah Rhodes,Warehouse,Oct 8 2026,09:07,IN
+E1002,Noah Rhodes,Warehouse,08/10/2026,16:40,OUT
+E1003,angie   henderson,Warehouse,2026-10-08,07:45,IN
+E1003,Angie Henderson,Warehouse,08/10/2026,16:19,OUT
+E1004,Daniel Wagner,Customer Service,08/10/2026,09:05,IN
+E1004,Daniel Wagner,Customer Service,Oct 8 2026,16:53,OUT
+E1005,Cristian Santos,Drivers,08/10/2026,09:07,IN
+E1005,Cristian Santos,Drivers,Oct 8 2026,18:53,OUT
+E1006,Connie Lawrence,Dispatch,2026-10-08,08:32,IN
+E1006,Connie Lawrence,Dispatch,2026-10-08,08:32,IN
+E1006,Connie Lawrence,Dispatch,08/10/2026,18:17,OUT
+E1007,abigail   shaffer,Dispatch,2026-10-08,09:30,IN
+E1007,Abigail Shaffer,Dispatch,08/10/2026,16:29,OUT
+E1008,Gina Moore,Dispatch,2026-10-08,09:12,IN
+E1008,Gina Moore,Dispatch,08/10/2026,18:32,OUT
+E1009,Gabrielle Davis,Customer Service,Oct 8 2026,07:55,IN
+E1009,Gabrielle Davis,Customer Service,2026-10-08,16:17,OUT
+E1010,Ryan Munoz,Warehouse,Oct 8 2026,09:21,IN
+E1010,Ryan Munoz,Warehouse,Oct 8 2026,18:17,OUT
+E1011,Monica   Herrera,Customer Service,2026-10-08,08:46,IN
+E1011,Monica Herrera,Customer Service,08/10/2026,17:53,OUT
+E1012,Jamie   Arnold,Customer Service,08/10/2026,09:55,IN
+E1012,jamie   arnold,Customer Service,08/10/2026,16:28,OUT
+E1013,  LISA HENSLEY,HR,Oct 8 2026,08:21,IN
+E1013,Lisa Hensley,HR,Oct 8 2026,18:48,OUT
+E1014,Michele Williams,Warehouse,2026-10-08,09:59,IN
+E1014,michele williams  ,Warehouse,Oct 8 2026,17:55,OUT
+E1015,Dylan Miller,HR,08/10/2026,07:36,IN
+E1015,Dylan Miller,HR,2026-10-08,17:14,OUT
+E1016,Brian Ramirez,Finance,08/10/2026,09:02,IN
+E1016,Brian Ramirez,Finance,2026-10-08,17:47,OUT
+E1017,Holly Wood,Warehouse,08/10/2026,09:24,IN
+E1017,Holly Wood,Warehouse,Oct 8 2026,18:50,OUT
+E1018,DEREK   ZUNIGA,Warehouse,Oct 8 2026,07:31,IN
+E1018,Derek Zuniga,Warehouse,08/10/2026,16:08,OUT
+E1019,Lisa Jackson,Warehouse,2026-10-08,08:55,IN
+E1019,Lisa Jackson,Warehouse,Oct 8 2026,16:55,OUT
+E1020,Carla Gray,Dispatch,2026-10-08,06:33,IN
+E1020,  carla gray,Dispatch,08/10/2026,17:00,OUT
+E1021,Margaret Hawkins DDS,Dispatch,08/10/2026,09:55,IN
+E1021,Margaret Hawkins DDS,Dispatch,08/10/2026,18:09,OUT
+E1022,  patty perez,HR,2026-10-08,08:21,IN
+E1022,  patty perez,HR,2026-10-08,08:21,IN
+E1022,Patty Perez,HR,Oct 8 2026,18:44,OUT
+E1022,Patty Perez,HR,Oct 8 2026,18:44,OUT
+E1023,Ethan Adams,HR,08/10/2026,06:54,IN
+E1023,Ethan Adams,HR,2026-10-08,17:54,OUT
+E1024,  tommy walter,Warehouse,Oct 8 2026,09:20,IN
+E1024,Tommy Walter,Warehouse,Oct 8 2026,18:45,OUT
+E1025,Matthew Foster,HR,2026-10-08,09:55,IN
+E1025,Matthew Foster,HR,08/10/2026,18:02,OUT
+E1026,Judy Baker,Dispatch,Oct 8 2026,07:40,IN
+E1026,Judy Baker,Dispatch,2026-10-08,18:58,OUT
+E1027,Justin Baker,Customer Service,2026-10-08,07:47,IN
+E1027,Justin Baker,Customer Service,Oct 8 2026,16:27,OUT
+E1028,Stephanie Ross,Customer Service,2026-10-08,06:28,IN
+E1028,Stephanie Ross,Customer Service,08/10/2026,16:44,OUT
+E1029,Zachary Hicks,Customer Service,2026-10-08,06:02,IN
+E1029,Zachary Hicks,Customer Service,2026-10-08,17:50,OUT
+E1030,Anthony Rodriguez,HR,2026-10-08,08:23,IN
+E1030,Anthony Rodriguez,HR,2026-10-08,17:09,OUT
+E1031,Rebecca Henderson,Finance,Oct 8 2026,09:36,IN
+E1031,Rebecca Henderson,Finance,08/10/2026,18:50,OUT
+E1032,James Ferrell,Dispatch,2026-10-08,07:05,IN
+E1032,James Ferrell,Dispatch,2026-10-08,18:55,OUT
+E1033,Tricia Valencia,Finance,2026-10-08,07:31,IN
+E1033,Tricia Valencia,Finance,2026-10-08,18:09,OUT
+E1034,Nathan Maldonado,HR,Oct 8 2026,08:29,IN
+E1034,Nathan Maldonado,HR,Oct 8 2026,17:42,OUT
+E1036,Jeffrey Chavez,Warehouse,08/10/2026,08:43,IN
+E1036,  Jeffrey Chavez,Warehouse,Oct 8 2026,27:00,OUT
+E1037,Sherri Baker,Dispatch,2026-10-08,08:37,IN
+E1037,SHERRI   BAKER,Dispatch,Oct 8 2026,17:40,OUT
+E1038,Cassandra Gaines,Customer Service,2026-10-08,08:29,IN
+E1038,cassandra   gaines,Customer Service,08/10/2026,17:12,OUT
+E1039,Elizabeth Fowler,Finance,08/10/2026,09:06,IN
+E1039,Elizabeth Fowler,Finance,Oct 8 2026,16:24,OUT
+E1040,Brittany Farmer,Drivers,08/10/2026,08:44,IN
+E1040,BRITTANY   FARMER,Drivers,08/10/2026,17:01,OUT
+E1001,Allison Hill,Customer Service,Oct 9 2026,09:17,IN
+E1001,Allison Hill,Customer Service,09/10/2026,16:36,OUT
+E1002,Noah Rhodes,Warehouse,09/10/2026,06:58,IN
+E1002,  Noah Rhodes,Warehouse,2026-10-09,18:47,OUT
+E1003,Angie Henderson,Warehouse,Oct 9 2026,08:49,IN
+E1003,Angie Henderson,Warehouse,09/10/2026,16:38,OUT
+E1004,Daniel Wagner,Customer Service,09/10/2026,07:40,IN
+E1004,Daniel Wagner,Customer Service,2026-10-09,16:39,OUT
+E1005,Cristian Santos,Drivers,Oct 9 2026,07:40,IN
+E1005,  Cristian Santos,Drivers,2026-10-09,16:57,OUT
+E1006,Connie Lawrence,Dispatch,2026-10-09,06:19,IN
+E1006,Connie Lawrence,Dispatch,Oct 9 2026,17:02,OUT
+E1007,Abigail Shaffer,Dispatch,09/10/2026,07:05,IN
+E1007,Abigail Shaffer,Dispatch,09/10/2026,07:05,IN
+E1007,Abigail Shaffer,Dispatch,09/10/2026,17:20,OUT
+E1008,Gina Moore,Dispatch,Oct 9 2026,07:12,IN
+E1008,Gina Moore,Dispatch,2026-10-09,16:50,OUT
+E1009,GABRIELLE   DAVIS,Customer Service,Oct 9 2026,08:33,IN
+E1009,Gabrielle Davis,Customer Service,09/10/2026,18:58,OUT
+E1010,Ryan Munoz,Warehouse,09/10/2026,07:16,IN
+E1010,Ryan Munoz,Warehouse,Oct 9 2026,17:51,OUT
+E1011,Monica Herrera,Customer Service,2026-10-09,08:51,IN
+E1011,Monica Herrera,Customer Service,09/10/2026,16:29,OUT
+E1012,Jamie Arnold,Customer Service,2026-10-09,07:48,IN
+E1012,Jamie Arnold,Customer Service,Oct 9 2026,16:55,OUT
+E1013,Lisa Hensley,HR,Oct 9 2026,09:54,IN
+E1013,Lisa Hensley,HR,09/10/2026,18:23,OUT
+E1014,Michele Williams,Warehouse,09/10/2026,09:00,IN
+E1015,Dylan Miller,HR,Oct 9 2026,08:43,IN
+E1015,Dylan Miller,HR,2026-10-09,18:43,OUT
+E1016,Brian Ramirez,Finance,2026-10-09,09:52,IN
+E1016,Brian Ramirez,Finance,Oct 9 2026,18:23,OUT
+E1017,Holly Wood,Warehouse,2026-10-09,07:30,IN
+E1017,Holly Wood,Warehouse,09/10/2026,16:39,OUT
+E1018,Derek Zuniga,Warehouse,Oct 9 2026,08:58,IN
+E1018,Derek Zuniga,Warehouse,2026-10-09,18:14,OUT
+E1019,Lisa Jackson,Warehouse,09/10/2026,09:58,IN
+E1019,Lisa Jackson,Warehouse,09/10/2026,18:19,OUT
+E1020,Carla Gray,Dispatch,Oct 9 2026,06:08,IN
+E1020,Carla Gray,Dispatch,09/10/2026,16:02,OUT
+E1021,Margaret Hawkins DDS,Dispatch,2026-10-09,09:07,IN
+E1021,Margaret Hawkins DDS,Dispatch,Oct 9 2026,16:15,OUT
+E1022,Patty Perez,HR,09/10/2026,07:24,IN
+E1022,Patty Perez,HR,2026-10-09,17:23,OUT
+E1023,Ethan Adams,HR,09/10/2026,09:37,IN
+E1023,Ethan Adams,HR,09/10/2026,18:46,OUT
+E1024,Tommy Walter  ,Warehouse,Oct 9 2026,09:41,IN
+E1024,Tommy Walter,Warehouse,09/10/2026,16:53,OUT
+E1025,Matthew Foster,HR,09/10/2026,09:17,IN
+E1025,Matthew Foster,HR,2026-10-09,16:44,OUT
+E1026,Judy Baker,Dispatch,09/10/2026,09:28,IN
+E1026,Judy Baker,Dispatch,09/10/2026,16:54,OUT
+E1027,Justin Baker,Customer Service,2026-10-09,08:34,IN
+E1027,Justin Baker,Customer Service,09/10/2026,18:22,OUT
+E1028,stephanie   ross,Customer Service,Oct 9 2026,08:12,IN
+E1028,Stephanie Ross,Customer Service,09/10/2026,16:54,OUT
+E1029,Zachary Hicks,Customer Service,09/10/2026,06:42,IN
+E1029,Zachary Hicks,Customer Service,09/10/2026,16:41,OUT
+E1030,Anthony Rodriguez,HR,09/10/2026,06:03,IN
+E1030,Anthony Rodriguez,HR,09/10/2026,17:15,OUT
+E1031,rebecca   henderson,Finance,2026-10-09,07:04,IN
+E1031,rebecca   henderson,Finance,Oct 9 2026,18:13,OUT
+E1032,James Ferrell,Dispatch,2026-10-09,07:21,IN
+E1032,James Ferrell,Dispatch,Oct 9 2026,16:50,OUT
+E1033,Tricia Valencia,Finance,Oct 9 2026,06:17,IN
+E1033,Tricia Valencia,Finance,2026-10-09,16:08,OUT
+E1034,  Nathan Maldonado,HR,2026-10-09,07:07,IN
+E1034,Nathan Maldonado,HR,Oct 9 2026,18:55,OUT
+E1037,Sherri Baker,Dispatch,09/10/2026,07:37,IN
+E1037,Sherri Baker,Dispatch,09/10/2026,07:37,IN
+E1037,Sherri Baker,Dispatch,2026-10-09,17:01,OUT
+E1038,cassandra   gaines,Customer Service,Oct 9 2026,06:08,IN
+E1038,Cassandra Gaines,Customer Service,09/10/2026,18:26,OUT
+E1039,Elizabeth Fowler,Finance,09/10/2026,06:30,IN
+E1039,Elizabeth Fowler,Finance,2026-10-09,17:49,OUT
+E1040,Brittany Farmer,Drivers,2026-10-09,06:28,IN
+E1040,Brittany   Farmer,Drivers,Oct 9 2026,18:14,OUT
+E1001,Allison Hill,Customer Service,2026-10-12,06:46,IN
+E1001,Allison Hill  ,Customer Service,12/10/2026,18:33,OUT
+E1002,Noah Rhodes,Warehouse,2026-10-12,06:03,IN
+E1002,Noah Rhodes,Warehouse,2026-10-12,17:54,OUT
+E1003,Angie Henderson,Warehouse,12/10/2026,06:31,IN
+E1003,Angie Henderson,Warehouse,12/10/2026,18:58,OUT
+E1004,Daniel Wagner,Customer Service,2026-10-12,06:20,IN
+E1004,Daniel Wagner,Customer Service,Oct 12 2026,18:09,OUT
+E1005,Cristian Santos,Drivers,Oct 12 2026,08:39,IN
+E1005,Cristian Santos,Drivers,Oct 12 2026,18:37,OUT
+E1006,Connie Lawrence,Dispatch,Oct 12 2026,08:24,IN
+E1006,Connie Lawrence,Dispatch,12/10/2026,18:33,OUT
+E1007,Abigail Shaffer,Dispatch,12/10/2026,09:06,IN
+E1007,abigail shaffer  ,Dispatch,12/10/2026,18:07,OUT
+E1008,Gina Moore,Dispatch,12/10/2026,07:27,IN
+E1008,Gina Moore,Dispatch,Oct 12 2026,17:56,OUT
+E1009,Gabrielle Davis,Customer Service,Oct 12 2026,08:52,IN
+E1009,Gabrielle Davis,Customer Service,2026-10-12,17:25,OUT
+E1010,Ryan Munoz,Warehouse,12/10/2026,06:20,IN
+E1010,Ryan Munoz,Warehouse,2026-10-12,17:20,OUT
+E1011,Monica Herrera,Customer Service,Oct 12 2026,08:09,IN
+E1011,Monica   Herrera,Customer Service,2026-10-12,18:59,OUT
+E1012,Jamie Arnold,Customer Service,2026-10-12,06:53,IN
+E1012,Jamie Arnold,Customer Service,2026-10-12,16:05,OUT
+E1013,Lisa Hensley,HR,12/10/2026,08:51,IN
+E1013,Lisa Hensley,HR,12/10/2026,16:35,OUT
+E1014,Michele Williams,Warehouse,Oct 12 2026,08:42,IN
+E1014,Michele Williams,Warehouse,2026-10-12,16:26,OUT
+E1015,Dylan Miller,HR,12/10/2026,09:55,IN
+E1015,Dylan Miller,HR,Oct 12 2026,18:03,OUT
+E1016,Brian Ramirez,Finance,12/10/2026,08:22,IN
+E1016,Brian Ramirez,Finance,12/10/2026,16:36,OUT
+E1017,Holly Wood,Warehouse,12/10/2026,07:42,IN
+E1017,Holly Wood,Warehouse,12/10/2026,17:14,OUT
+E1018,Derek Zuniga,Warehouse,Oct 12 2026,08:54,IN
+E1018,Derek Zuniga,Warehouse,Oct 12 2026,18:23,OUT
+E1019,Lisa Jackson,Warehouse,12/10/2026,08:36,IN
+E1019,Lisa Jackson,Warehouse,12/10/2026,16:51,OUT
+E1020,Carla Gray,Dispatch,2026-10-12,06:38,IN
+E1020,CARLA GRAY  ,Dispatch,12/10/2026,18:53,OUT
+E1021,Margaret Hawkins DDS,Dispatch,2026-10-12,06:11,IN
+E1021,Margaret Hawkins DDS,Dispatch,12/10/2026,17:44,OUT
+E1022,Patty Perez,HR,Oct 12 2026,08:22,IN
+E1022,Patty Perez,HR,Oct 12 2026,16:11,OUT
+E1023,Ethan Adams,HR,2026-10-12,09:04,IN
+E1023,Ethan Adams,HR,Oct 12 2026,16:47,OUT
+E1024,Tommy Walter,Warehouse,Oct 12 2026,06:05,IN
+E1024,Tommy Walter,Warehouse,Oct 12 2026,18:33,OUT
+E1025,Matthew Foster,HR,Oct 12 2026,09:29,IN
+E1025,Matthew Foster,HR,Oct 12 2026,17:10,OUT
+E1025,Matthew Foster,HR,Oct 12 2026,17:10,OUT
+E1026,Judy Baker,Dispatch,2026-10-12,08:49,IN
+E1026,Judy Baker,Dispatch,12/10/2026,18:38,OUT
+E1027,Justin Baker,Customer Service,12/10/2026,06:09,IN
+E1027,Justin Baker,Customer Service,12/10/2026,16:48,OUT
+E1028,Stephanie Ross,Customer Service,Oct 12 2026,06:17,IN
+E1028,Stephanie Ross,Customer Service,Oct 12 2026,17:42,OUT
+E1028,Stephanie Ross,Customer Service,Oct 12 2026,17:42,OUT
+E1029,Zachary   Hicks,Customer Service,12/10/2026,09:26,IN
+E1029,Zachary Hicks,Customer Service,Oct 12 2026,17:13,OUT
+E1030,Anthony Rodriguez,HR,12/10/2026,06:22,IN
+E1030,Anthony Rodriguez,HR,2026-10-12,17:07,OUT
+E1031,Rebecca Henderson,Finance,12/10/2026,09:33,IN
+E1031,Rebecca Henderson,Finance,Oct 12 2026,18:19,OUT
+,Tricia Valencia,Finance,12/10/2026,06:00,IN
+E1033,TRICIA VALENCIA  ,Finance,12/10/2026,16:19,OUT
+E1034,Nathan Maldonado,HR,Oct 12 2026,07:48,IN
+E1034,Nathan   Maldonado,HR,2026-10-12,17:18,OUT
+E1035,Debra Davidson,Drivers,2026-10-12,06:31,IN
+E1035,  debra davidson,Drivers,Oct 12 2026,18:27,OUT
+E1036,Jeffrey Chavez,Warehouse,12/10/2026,09:34,IN
+E1036,Jeffrey Chavez,Warehouse,12/10/2026,18:14,OUT
+E1037,Sherri Baker,Dispatch,Oct 12 2026,08:04,IN
+E1037,  Sherri Baker,Dispatch,Oct 12 2026,17:55,OUT
+E1038,  Cassandra Gaines,Customer Service,Oct 12 2026,09:01,IN
+E1038,Cassandra Gaines,Customer Service,12/10/2026,17:58,OUT
+E1039,Elizabeth Fowler,Finance,2026-10-12,08:36,IN
+E1039,Elizabeth Fowler,Finance,2026-10-12,17:36,OUT
+E1040,Brittany Farmer,Drivers,2026-10-12,09:18,IN
+E1040,  BRITTANY FARMER,Drivers,12/10/2026,16:25,OUT
+E1002,Noah Rhodes,Warehouse,2026-10-13,09:53,IN
+E1002,Noah Rhodes,Warehouse,13/10/2026,18:58,OUT
+E1003,Angie Henderson,Warehouse,13/10/2026,09:54,IN
+E1003,Angie Henderson,Warehouse,Oct 13 2026,16:15,OUT
+E1004,Daniel Wagner,Customer Service,13/10/2026,09:33,IN
+E1004,Daniel Wagner,Customer Service,Oct 13 2026,16:25,OUT
+E1005,Cristian Santos,Drivers,13/10/2026,08:14,IN
+E1005,Cristian Santos,Drivers,Oct 13 2026,17:49,OUT
+E1006,Connie Lawrence,Dispatch,Oct 13 2026,06:33,IN
+E1006,CONNIE   LAWRENCE,Dispatch,13/10/2026,18:12,OUT
+E1007,Abigail Shaffer,Dispatch,13/10/2026,08:22,IN
+E1007,  Abigail Shaffer,Dispatch,13/10/2026,18:52,OUT
+E1008,Gina Moore,Dispatch,13/10/2026,07:15,IN
+E1008,Gina Moore,Dispatch,Oct 13 2026,16:09,OUT
+E1009,Gabrielle Davis,Customer Service,Oct 13 2026,07:38,IN
+E1009,Gabrielle Davis,Customer Service,Oct 13 2026,16:48,OUT
+E1010,Ryan Munoz,Warehouse,13/10/2026,06:11,IN
+E1010,Ryan Munoz,Warehouse,13/10/2026,18:31,OUT
+E1011,Monica Herrera,Customer Service,2026-10-13,09:43,IN
+E1011,Monica Herrera,Customer Service,2026-10-13,18:41,OUT
+E1012,Jamie Arnold,Customer Service,2026-10-13,08:55,IN
+E1012,Jamie Arnold,Customer Service,2026-10-13,18:20,OUT
+E1013,LISA   HENSLEY,HR,Oct 13 2026,06:30,IN
+E1013,lisa hensley  ,HR,2026-10-13,17:40,OUT
+E1014,  MICHELE WILLIAMS,Warehouse,Oct 13 2026,08:37,IN
+E1014,Michele Williams,Warehouse,13/10/2026,16:22,OUT
+E1015,Dylan Miller,HR,Oct 13 2026,08:29,IN
+E1015,Dylan Miller,HR,Oct 13 2026,17:02,OUT
+E1016,Brian Ramirez,Finance,Oct 13 2026,08:04,IN
+E1016,Brian Ramirez,Finance,2026-10-13,18:55,OUT
+E1017,Holly   Wood,Warehouse,2026-10-13,06:39,IN
+E1017,Holly Wood,Warehouse,2026-10-13,18:32,OUT
+E1017,Holly Wood,Warehouse,2026-10-13,18:32,OUT
+E1018,Derek Zuniga,Warehouse,13/10/2026,06:28,IN
+E1018,Derek Zuniga,Warehouse,2026-10-13,18:41,OUT
+E1019,Lisa Jackson,Warehouse,2026-10-13,09:32,IN
+E1020,Carla Gray,Dispatch,2026-10-13,08:45,IN
+E1020,Carla Gray,Dispatch,13/10/2026,16:32,OUT
+E1021,Margaret Hawkins DDS,Dispatch,Oct 13 2026,06:15,IN
+E1021,Margaret Hawkins DDS,Dispatch,2026-10-13,18:28,OUT
+E1022,Patty Perez,HR,2026-10-13,07:23,IN
+E1022,Patty Perez,HR,13/10/2026,17:58,OUT
+E1023,Ethan Adams,HR,Oct 13 2026,09:49,IN
+E1023,ethan   adams,HR,2026-10-13,17:43,OUT
+E1024,Tommy Walter,Warehouse,2026-10-13,08:04,IN
+E1024,Tommy Walter,Warehouse,13/10/2026,17:06,OUT
+E1025,Matthew Foster,HR,Oct 13 2026,09:18,IN
+E1025,Matthew Foster,HR,2026-10-13,17:46,OUT
+E1026,Judy Baker,Dispatch,2026-10-13,07:21,IN
+E1026,Judy Baker,Dispatch,Oct 13 2026,16:37,OUT
+E1027,Justin Baker,Customer Service,13/10/2026,08:19,IN
+E1027,Justin Baker,Customer Service,13/10/2026,18:44,OUT
+E1028,Stephanie Ross,Customer Service,2026-10-13,07:38,IN
+E1028,Stephanie Ross,Customer Service,2026-10-13,18:05,OUT
+E1029,Zachary Hicks,Customer Service,Oct 13 2026,09:41,IN
+E1029,Zachary Hicks,Customer Service,13/10/2026,17:52,OUT
+E1030,Anthony Rodriguez,HR,13/10/2026,06:41,IN
+E1030,  Anthony Rodriguez,HR,Oct 13 2026,18:27,OUT
+E1031,Rebecca Henderson,Finance,2026-10-13,06:23,IN
+E1031,Rebecca Henderson,Finance,2026-10-13,17:11,OUT
+E1032,James Ferrell,Dispatch,Oct 13 2026,08:49,IN
+E1032,  JAMES FERRELL,Dispatch,2026-10-13,17:12,OUT
+E1033,Tricia   Valencia,Finance,2026-10-13,07:09,IN
+E1033,Tricia Valencia,Finance,2026-10-13,16:18,OUT
+E1034,Nathan Maldonado,HR,Oct 13 2026,06:32,IN
+E1034,Nathan Maldonado  ,HR,13/10/2026,18:53,OUT
+E1035,Debra Davidson,Drivers,13/10/2026,06:42,IN
+E1035,Debra Davidson,Drivers,13/10/2026,17:56,OUT
+E1036,Jeffrey Chavez,Warehouse,13/10/2026,07:38,IN
+E1036,Jeffrey Chavez,Warehouse,Oct 13 2026,17:09,OUT
+E1037,Sherri Baker,Dispatch,13/10/2026,07:46,IN
+E1037,  SHERRI BAKER,Dispatch,Oct 13 2026,17:02,OUT
+E1038,Cassandra Gaines,Customer Service,13/10/2026,07:28,IN
+E1038,Cassandra Gaines,Customer Service,2026-10-13,18:18,OUT
+E1039,Elizabeth Fowler,Finance,Oct 13 2026,09:14,IN
+E1039,  Elizabeth Fowler,Finance,Oct 13 2026,18:15,OUT
+E1040,Brittany Farmer,Drivers,2026-10-13,09:57,IN
+E1040,Brittany Farmer,Drivers,Oct 13 2026,16:23,OUT
+E1001,Allison Hill,Customer Service,Oct 14 2026,09:29,IN
+E1001,Allison Hill,Customer Service,14/10/2026,17:49,OUT
+E1002,Noah Rhodes,Warehouse,Oct 14 2026,09:10,IN
+E1002,Noah Rhodes,Warehouse,Oct 14 2026,16:51,OUT
+E1003,Angie Henderson,Warehouse,Oct 14 2026,08:03,IN
+E1003,Angie Henderson,Warehouse,Oct 14 2026,18:30,OUT
+E1004,Daniel Wagner,Customer Service,14/10/2026,06:45,IN
+E1004,Daniel   Wagner,Customer Service,Oct 14 2026,18:54,OUT
+E1005,Cristian Santos,Drivers,Oct 14 2026,06:48,IN
+E1005,Cristian Santos,Drivers,Oct 14 2026,16:17,OUT
+E1006,Connie Lawrence,Dispatch,Oct 14 2026,07:53,IN
+E1006,  Connie Lawrence,Dispatch,14/10/2026,17:05,OUT
+E1007,Abigail Shaffer,Dispatch,14/10/2026,07:52,IN
+E1007,Abigail Shaffer,Dispatch,14/10/2026,17:56,OUT
+E1008,Gina Moore,Dispatch,Oct 14 2026,06:26,IN
+E1008,Gina Moore,Dispatch,2026-10-14,16:25,OUT
+E1009,Gabrielle Davis,Customer Service,2026-10-14,07:24,IN
+E1009,Gabrielle Davis,Customer Service,14/10/2026,16:23,OUT
+E1010,Ryan Munoz,Warehouse,14/10/2026,08:59,IN
+E1010,Ryan Munoz,Warehouse,14/10/2026,16:53,OUT
+E1011,Monica Herrera,Customer Service,14/10/2026,08:50,IN
+E1011,Monica Herrera,Customer Service,14/10/2026,16:08,OUT
+E1013,Lisa Hensley,HR,2026-10-14,09:44,IN
+E1013,Lisa Hensley,HR,14/10/2026,16:48,OUT
+E1014,Michele Williams,Warehouse,2026-10-14,09:39,IN
+E1014,Michele Williams,Warehouse,2026-10-14,16:57,OUT
+E1015,Dylan Miller,HR,Oct 14 2026,08:13,IN
+E1015,Dylan Miller,HR,2026-10-14,16:35,OUT
+E1016,Brian Ramirez,Finance,14/10/2026,09:07,IN
+E1016,Brian Ramirez,Finance,14/10/2026,17:15,OUT
+E1017,Holly Wood,Warehouse,14/10/2026,06:15,IN
+E1017,Holly Wood,Warehouse,14/10/2026,06:15,IN
+E1017,Holly Wood,Warehouse,Oct 14 2026,17:40,OUT
+E1018,Derek Zuniga,Warehouse,2026-10-14,09:04,IN
+E1018,Derek Zuniga  ,Warehouse,Oct 14 2026,16:53,OUT
+E1019,Lisa Jackson,Warehouse,14/10/2026,06:40,IN
+E1019,Lisa Jackson,Warehouse,14/10/2026,18:36,OUT
+E1020,Carla Gray,Dispatch,14/10/2026,07:18,IN
+E1020,Carla Gray,Dispatch,2026-10-14,17:00,OUT
+E1021,  Margaret Hawkins Dds,Dispatch,14/10/2026,07:36,IN
+E1021,  Margaret Hawkins Dds,Dispatch,14/10/2026,17:11,OUT
+E1022,Patty Perez,HR,Oct 14 2026,06:33,IN
+E1022,  Patty Perez,HR,2026-10-14,17:04,OUT
+E1023,Ethan Adams,HR,2026-10-14,06:24,IN
+E1023,  ETHAN ADAMS,HR,Oct 14 2026,17:02,OUT
+E1024,Tommy Walter,Warehouse,14/10/2026,08:16,IN
+E1024,Tommy Walter,Warehouse,2026-10-14,18:01,OUT
+E1025,Matthew Foster,HR,14/10/2026,06:22,IN
+E1025,Matthew Foster,HR,Oct 14 2026,16:46,OUT
+E1026,Judy Baker,Dispatch,14/10/2026,06:49,IN
+E1026,Judy Baker,Dispatch,14/10/2026,18:47,OUT
+E1027,Justin Baker,Customer Service,2026-10-14,07:02,IN
+E1027,Justin Baker,Customer Service,2026-10-14,17:34,OUT
+E1028,Stephanie Ross,Customer Service,Oct 14 2026,07:53,IN
+E1028,Stephanie Ross,Customer Service,Oct 14 2026,18:29,OUT
+E1029,Zachary Hicks,Customer Service,Oct 14 2026,09:40,IN
+E1029,Zachary Hicks,Customer Service,14/10/2026,16:51,OUT
+E1030,ANTHONY   RODRIGUEZ,HR,14/10/2026,09:02,IN
+E1030,Anthony Rodriguez,HR,2026-10-14,17:12,OUT
+E1032,James Ferrell,Dispatch,14/10/2026,06:20,IN
+E1032,James Ferrell,Dispatch,2026-10-14,17:32,OUT
+E1033,Tricia Valencia,Finance,14/10/2026,09:16,IN
+E1033,Tricia Valencia,Finance,Oct 14 2026,16:48,OUT
+E1034,Nathan Maldonado,HR,2026-10-14,08:22,IN
+E1034,Nathan Maldonado,HR,Oct 14 2026,16:55,OUT
+E1035,Debra Davidson,Drivers,Oct 14 2026,08:07,IN
+E1035,Debra Davidson,Drivers,Oct 14 2026,17:27,OUT
+E1036,Jeffrey Chavez,Warehouse,Oct 14 2026,09:57,IN
+E1036,  Jeffrey Chavez,Warehouse,14/10/2026,17:21,OUT
+E1037,Sherri Baker,Dispatch,14/10/2026,09:44,IN
+E1037,Sherri Baker,Dispatch,Oct 14 2026,17:23,OUT
+E1038,Cassandra   Gaines,Customer Service,Oct 14 2026,08:51,IN
+E1038,Cassandra Gaines,Customer Service,Oct 14 2026,16:46,OUT
+E1039,Elizabeth Fowler,Finance,14/10/2026,09:38,IN
+E1039,Elizabeth Fowler,Finance,14/10/2026,16:34,OUT
+E1040,Brittany Farmer  ,Drivers,2026-10-14,06:05,IN
+E1040,Brittany Farmer,Drivers,2026-10-14,17:42,OUT
+E1001,Allison Hill,Customer Service,2026-10-15,09:38,IN
+E1001,Allison Hill,Customer Service,2026-10-15,18:27,OUT
+E1002,Noah Rhodes,Warehouse,15/10/2026,09:22,IN
+E1002,Noah Rhodes,Warehouse,2026-10-15,17:02,OUT
+E1003,Angie Henderson,Warehouse,Oct 15 2026,08:39,IN
+E1003,Angie Henderson,Warehouse,15/10/2026,17:17,OUT
+E1004,Daniel Wagner,Customer Service,Oct 15 2026,06:04,IN
+E1004,Daniel Wagner,Customer Service,15/10/2026,18:40,OUT
+E1005,cristian   santos,Drivers,15/10/2026,07:01,IN
+E1005,Cristian Santos,Drivers,Oct 15 2026,16:54,OUT
+E1006,Connie Lawrence,Dispatch,Oct 15 2026,09:02,IN
+E1006,  Connie Lawrence,Dispatch,15/10/2026,16:04,OUT
+E1007,Abigail Shaffer,Dispatch,2026-10-15,08:23,IN
+E1007,Abigail Shaffer,Dispatch,15/10/2026,17:36,OUT
+E1009,Gabrielle Davis,Customer Service,2026-10-15,09:23,IN
+E1009,Gabrielle Davis  ,Customer Service,2026-10-15,17:28,OUT
+E1010,Ryan Munoz,Warehouse,2026-10-15,07:33,IN
+E1010,Ryan Munoz,Warehouse,Oct 15 2026,17:25,OUT
+E1011,Monica Herrera,Customer Service,2026-10-15,08:15,IN
+E1011,Monica Herrera,Customer Service,2026-10-15,16:01,OUT
+E1012,Jamie Arnold,Customer Service,2026-10-15,09:33,IN
+E1012,Jamie Arnold,Customer Service,15/10/2026,17:58,OUT
+E1013,Lisa Hensley,HR,15/10/2026,08:49,IN
+E1013,Lisa Hensley,HR,2026-10-15,17:45,OUT
+E1014,Michele Williams,Warehouse,Oct 15 2026,08:44,IN
+E1014,Michele Williams,Warehouse,15/10/2026,17:12,OUT
+E1015,Dylan Miller,HR,Oct 15 2026,06:28,IN
+E1015,Dylan Miller,HR,2026-10-15,16:57,OUT
+E1016,Brian Ramirez,Finance,2026-10-15,06:51,IN
+E1016,Brian Ramirez,Finance,2026-10-15,18:54,OUT
+E1017,Holly Wood,Warehouse,2026-10-15,08:45,IN
+E1017,Holly Wood,Warehouse,2026-10-15,16:35,OUT
+E1018,Derek Zuniga,Warehouse,15/10/2026,08:54,IN
+E1018,Derek Zuniga,Warehouse,2026-10-15,16:45,OUT
+E1019,Lisa Jackson,Warehouse,15/10/2026,07:50,IN
+E1019,Lisa Jackson,Warehouse,15/10/2026,17:32,OUT
+E1020,Carla Gray,Dispatch,15/10/2026,07:50,IN
+E1020,Carla Gray,Dispatch,15/10/2026,16:15,OUT
+E1021,Margaret Hawkins DDS,Dispatch,15/10/2026,06:23,IN
+E1021,Margaret Hawkins DDS,Dispatch,15/10/2026,18:36,OUT
+E1022,Patty Perez,HR,Oct 15 2026,07:39,IN
+E1022,Patty Perez,HR,2026-10-15,16:04,OUT
+E1023,Ethan Adams,HR,15/10/2026,09:33,IN
+E1023,Ethan Adams,HR,2026-10-15,17:49,OUT
+E1024,Tommy Walter,Warehouse,2026-10-15,06:08,IN
+E1024,Tommy Walter,Warehouse,2026-10-15,17:41,OUT
+E1025,Matthew Foster,HR,15/10/2026,09:43,IN
+E1025,Matthew Foster,HR,15/10/2026,18:22,OUT
+E1026,Judy Baker,Dispatch,2026-10-15,07:49,IN
+E1026,Judy Baker,Dispatch,Oct 15 2026,16:27,OUT
+E1027,Justin Baker,Customer Service,15/10/2026,06:53,IN
+E1027,Justin Baker,Customer Service,2026-10-15,16:33,OUT
+E1028,Stephanie Ross,Customer Service,2026-10-15,07:10,IN
+E1029,Zachary Hicks,Customer Service,15/10/2026,08:33,IN
+E1029,Zachary Hicks,Customer Service,15/10/2026,17:54,OUT
+E1030,Anthony Rodriguez,HR,2026-10-15,07:40,IN
+E1030,Anthony   Rodriguez,HR,2026-10-15,18:17,OUT
+E1031,Rebecca Henderson,Finance,Oct 15 2026,08:39,IN
+E1031,Rebecca Henderson,Finance,2026-10-15,18:05,OUT
+E1032,James Ferrell,Dispatch,15/10/2026,07:37,IN
+E1032,James Ferrell,Dispatch,15/10/2026,18:09,OUT
+E1033,Tricia Valencia,Finance,2026-10-15,08:53,IN
+E1033,Tricia Valencia,Finance,Oct 15 2026,18:02,OUT
+E1034,Nathan Maldonado,HR,2026-10-15,06:05,IN
+E1034,Nathan Maldonado,HR,2026-10-15,16:41,OUT
+E1035,Debra Davidson,Drivers,15/10/2026,08:41,IN
+E1035,Debra Davidson,Drivers,Oct 15 2026,16:49,OUT
+E1036,Jeffrey Chavez,Warehouse,2026-10-15,06:31,IN
+E1036,jeffrey   chavez,Warehouse,Oct 15 2026,18:34,OUT
+E1037,  SHERRI BAKER,Dispatch,Oct 15 2026,08:30,IN
+E1037,Sherri Baker,Dispatch,2026-10-15,16:51,OUT
+E1038,Cassandra Gaines,Customer Service,15/10/2026,09:19,IN
+E1038,Cassandra Gaines,Customer Service,15/10/2026,17:04,OUT
+E1039,Elizabeth Fowler,Finance,Oct 15 2026,07:28,IN
+E1039,Elizabeth Fowler,Finance,15/10/2026,17:30,OUT
+E1040,Brittany Farmer,Drivers,15/10/2026,08:38,IN
+E1040,Brittany   Farmer,Drivers,2026-10-15,16:20,OUT
+E1001,Allison Hill,Customer Service,Oct 16 2026,08:46,IN
+E1001,Allison Hill,Customer Service,Oct 16 2026,08:46,IN
+E1001,Allison Hill,Customer Service,Oct 16 2026,17:25,OUT
+E1002,Noah Rhodes,Warehouse,2026-10-16,08:32,IN
+E1002,Noah Rhodes,Warehouse,Oct 16 2026,18:06,OUT
+E1003,Angie Henderson,Warehouse,Oct 16 2026,09:07,IN
+E1003,Angie Henderson,Warehouse,Oct 16 2026,17:28,OUT
+E1004,daniel wagner  ,Customer Service,2026-10-16,06:03,IN
+E1004,Daniel Wagner,Customer Service,16/10/2026,17:24,OUT
+E1005,Cristian Santos,Drivers,16/10/2026,09:15,IN
+E1005,Cristian Santos,Drivers,Oct 16 2026,16:52,OUT
+E1006,Connie   Lawrence,Dispatch,16/10/2026,08:12,IN
+E1006,Connie Lawrence,Dispatch,2026-10-16,16:31,OUT
+E1007,Abigail Shaffer,Dispatch,16/10/2026,09:31,IN
+E1007,Abigail Shaffer,Dispatch,2026-10-16,17:31,OUT
+E1009,Gabrielle Davis  ,Customer Service,Oct 16 2026,09:15,IN
+E1009,Gabrielle Davis,Customer Service,2026-10-16,16:37,OUT
+E1010,Ryan Munoz,Warehouse,2026-10-16,06:18,IN
+E1010,Ryan Munoz,Warehouse,2026-10-16,17:38,OUT
+E1011,Monica Herrera,Customer Service,Oct 16 2026,09:18,IN
+E1011,Monica Herrera,Customer Service,16/10/2026,18:00,OUT
+E1012,Jamie Arnold,Customer Service,16/10/2026,09:08,IN
+E1012,Jamie Arnold,Customer Service,2026-10-16,17:46,OUT
+E1013,Lisa Hensley,HR,2026-10-16,09:23,IN
+E1013,Lisa Hensley,HR,16/10/2026,16:25,OUT
+E1014,Michele Williams,Warehouse,Oct 16 2026,07:23,IN
+E1014,MICHELE   WILLIAMS,Warehouse,2026-10-16,18:18,OUT
+E1015,Dylan Miller,HR,16/10/2026,09:48,IN
+E1015,Dylan Miller,HR,2026-10-16,18:17,OUT
+E1015,Dylan Miller,HR,2026-10-16,18:17,OUT
+E1016,Brian Ramirez,Finance,2026-10-16,06:08,IN
+E1016,Brian Ramirez,Finance,2026-10-16,16:25,OUT
+E1017,Holly Wood,Warehouse,Oct 16 2026,08:35,IN
+E1017,Holly Wood  ,Warehouse,Oct 16 2026,17:48,OUT
+E1018,Derek   Zuniga,Warehouse,16/10/2026,09:32,IN
+E1018,Derek Zuniga,Warehouse,Oct 16 2026,16:02,OUT
+E1020,Carla Gray,Dispatch,Oct 16 2026,09:33,IN
+E1020,Carla Gray,Dispatch,2026-10-16,17:09,OUT
+E1021,Margaret Hawkins DDS,Dispatch,16/10/2026,07:20,IN
+E1021,Margaret Hawkins DDS,Dispatch,2026-10-16,18:20,OUT
+E1022,Patty Perez,HR,2026-10-16,08:37,IN
+E1022,Patty Perez,HR,2026-10-16,17:32,OUT
+E1023,Ethan Adams,HR,16/10/2026,09:45,IN
+E1023,ethan   adams,HR,2026-10-16,18:19,OUT
+E1024,Tommy Walter,Warehouse,Oct 16 2026,06:23,IN
+E1024,Tommy Walter,Warehouse,Oct 16 2026,17:43,OUT
+E1025,Matthew Foster,HR,16/10/2026,09:37,IN
+E1025,Matthew Foster,HR,Oct 16 2026,17:50,OUT
+E1026,Judy Baker,Dispatch,2026-10-16,06:38,IN
+E1026,Judy Baker,Dispatch,2026-10-16,17:16,OUT
+E1027,Justin Baker,Customer Service,16/10/2026,07:46,IN
+E1027,Justin Baker,Customer Service,Oct 16 2026,16:37,OUT
+E1028,Stephanie Ross,Customer Service,2026-10-16,09:09,IN
+E1028,Stephanie Ross,Customer Service,Oct 16 2026,18:15,OUT
+E1030,Anthony Rodriguez,HR,Oct 16 2026,06:12,IN
+E1030,Anthony Rodriguez,HR,2026-10-16,16:28,OUT
+E1031,Rebecca Henderson,Finance,2026-10-16,07:26,IN
+E1031,Rebecca Henderson,Finance,16/10/2026,18:13,OUT
+E1032,James Ferrell,Dispatch,2026-10-16,09:55,IN
+E1032,James Ferrell,Dispatch,16/10/2026,18:46,OUT
+E1033,Tricia Valencia,Finance,Oct 16 2026,07:33,IN
+E1033,Tricia Valencia,Finance,Oct 16 2026,16:35,OUT
+E1034,Nathan Maldonado,HR,16/10/2026,09:33,IN
+E1034,Nathan Maldonado,HR,16/10/2026,17:20,OUT
+E1035,  DEBRA DAVIDSON,Drivers,Oct 16 2026,09:58,IN
+E1035,Debra Davidson,Drivers,2026-10-16,18:21,OUT
+E1036,Jeffrey Chavez,Warehouse,2026-10-16,08:39,IN
+E1036,Jeffrey Chavez,Warehouse,Oct 16 2026,17:12,OUT
+E1037,Sherri Baker,Dispatch,16/10/2026,08:35,IN
+E1037,Sherri Baker,Dispatch,16/10/2026,17:14,OUT
+E1038,Cassandra Gaines,Customer Service,Oct 16 2026,08:49,IN
+E1038,Cassandra Gaines,Customer Service,2026-10-16,17:45,OUT
+E1039,Elizabeth Fowler,Finance,16/10/2026,09:20,IN
+E1039,Elizabeth Fowler,Finance,2026-10-16,17:22,OUT
+E1040,Brittany Farmer,Drivers,16/10/2026,08:18,IN
+E1040,Brittany Farmer,Drivers,Oct 16 2026,16:36,OUT
+E1001,Allison Hill,Customer Service,19/10/2026,09:57,IN
+E1001,Allison Hill,Customer Service,Oct 19 2026,17:52,OUT
+E1002,Noah Rhodes,Warehouse,19/10/2026,07:18,IN
+E1002,Noah Rhodes,Warehouse,Oct 19 2026,16:18,OUT
+E1003,  Angie Henderson,Warehouse,Oct 19 2026,06:22,IN
+E1003,Angie Henderson,Warehouse,19/10/2026,17:41,OUT
+E1004,Daniel Wagner,Customer Service,2026-10-19,09:13,IN
+E1004,Daniel Wagner,Customer Service,Oct 19 2026,16:52,OUT
+E1005,Cristian Santos,Drivers,2026-10-19,08:08,IN
+E1005,Cristian Santos,Drivers,Oct 19 2026,16:39,OUT
+E1006,Connie Lawrence,Dispatch,19/10/2026,07:15,IN
+E1006,Connie Lawrence,Dispatch,19/10/2026,16:42,OUT
+E1007,ABIGAIL SHAFFER  ,Dispatch,Oct 19 2026,07:40,IN
+E1007,Abigail Shaffer,Dispatch,19/10/2026,16:03,OUT
+E1008,GINA MOORE  ,Dispatch,19/10/2026,08:45,IN
+E1008,Gina Moore,Dispatch,Oct 19 2026,17:06,OUT
+E1009,  Gabrielle Davis,Customer Service,Oct 19 2026,07:00,IN
+E1009,Gabrielle Davis,Customer Service,2026-10-19,18:59,OUT
+E1010,Ryan Munoz,Warehouse,2026-10-19,09:30,IN
+E1010,Ryan Munoz,Warehouse,Oct 19 2026,18:12,OUT
+E1011,Monica Herrera,Customer Service,2026-10-19,08:20,IN
+E1011,Monica Herrera,Customer Service,19/10/2026,17:41,OUT
+E1012,Jamie Arnold,Customer Service,19/10/2026,06:41,IN
+E1012,Jamie Arnold,Customer Service,19/10/2026,18:14,OUT
+E1013,Lisa Hensley,HR,Oct 19 2026,06:58,IN
+E1013,Lisa Hensley,HR,19/10/2026,16:26,OUT
+E1014,Michele Williams,Warehouse,19/10/2026,07:59,IN
+E1014,Michele Williams,Warehouse,2026-10-19,16:53,OUT
+E1015,dylan miller  ,HR,Oct 19 2026,09:11,IN
+E1015,  Dylan Miller,HR,Oct 19 2026,18:55,OUT
+E1016,Brian Ramirez,Finance,19/10/2026,06:00,IN
+E1016,Brian Ramirez,Finance,Oct 19 2026,17:36,OUT
+E1016,Brian Ramirez,Finance,Oct 19 2026,17:36,OUT
+E1017,Holly Wood,Warehouse,2026-10-19,08:18,IN
+E1017,Holly Wood,Warehouse,2026-10-19,17:41,OUT
+E1018,Derek Zuniga,Warehouse,Oct 19 2026,09:56,IN
+E1018,Derek Zuniga,Warehouse,19/10/2026,16:54,OUT
+E1019,Lisa Jackson,Warehouse,Oct 19 2026,08:12,IN
+E1019,Lisa Jackson,Warehouse,2026-10-19,16:21,OUT
+E1020,Carla Gray,Dispatch,19/10/2026,09:41,IN
+E1020,Carla Gray,Dispatch,Oct 19 2026,17:45,OUT
+E1021,Margaret Hawkins DDS,Dispatch,2026-10-19,08:50,IN
+E1021,Margaret Hawkins DDS,Dispatch,Oct 19 2026,17:36,OUT
+E1022,  Patty Perez,HR,Oct 19 2026,07:11,IN
+E1022,Patty   Perez,HR,19/10/2026,18:54,OUT
+E1023,Ethan Adams,HR,2026-10-19,09:52,IN
+E1023,Ethan Adams,HR,Oct 19 2026,17:32,OUT
+E1024,  Tommy Walter,Warehouse,Oct 19 2026,09:42,IN
+E1024,Tommy Walter,Warehouse,19/10/2026,16:11,OUT
+E1025,Matthew Foster,HR,Oct 19 2026,09:20,IN
+E1025,Matthew Foster,HR,2026-10-19,16:00,OUT
+E1026,  Judy Baker,Dispatch,Oct 19 2026,07:28,IN
+E1026,Judy Baker,Dispatch,19/10/2026,17:21,OUT
+E1027,Justin Baker,Customer Service,19/10/2026,06:16,IN
+E1027,Justin Baker,Customer Service,19/10/2026,18:23,OUT
+E1028,Stephanie Ross,Customer Service,Oct 19 2026,06:42,IN
+E1028,Stephanie Ross,Customer Service,19/10/2026,16:29,OUT
+E1029,zachary hicks  ,Customer Service,2026-10-19,09:43,IN
+E1029,Zachary Hicks,Customer Service,2026-10-19,18:59,OUT
+E1030,Anthony Rodriguez,HR,Oct 19 2026,08:44,IN
+E1030,Anthony Rodriguez,HR,Oct 19 2026,16:40,OUT
+E1031,Rebecca Henderson,Finance,2026-10-19,08:23,IN
+E1031,Rebecca Henderson,Finance,2026-10-19,18:14,OUT
+E1032,James Ferrell,Dispatch,2026-10-19,07:30,IN
+E1032,  James Ferrell,Dispatch,2026-10-19,16:29,OUT
+E1033,Tricia Valencia,Finance,2026-10-19,08:26,IN
+E1033,Tricia Valencia,Finance,2026-10-19,18:35,OUT
+E1034,Nathan Maldonado,HR,2026-10-19,07:48,IN
+E1034,Nathan Maldonado,HR,19/10/2026,16:43,OUT
+E1035,Debra Davidson,Drivers,2026-10-19,06:33,IN
+E1035,Debra Davidson,Drivers,2026-10-19,17:33,OUT
+E1035,Debra Davidson,Drivers,2026-10-19,17:33,OUT
+E1036,Jeffrey Chavez,Warehouse,2026-10-19,06:58,IN
+E1036,Jeffrey Chavez,Warehouse,Oct 19 2026,18:07,OUT
+E1037,Sherri Baker,Dispatch,Oct 19 2026,07:36,IN
+E1037,Sherri Baker,Dispatch,19/10/2026,18:09,OUT
+E1038,Cassandra Gaines,Customer Service,Oct 19 2026,09:07,IN
+E1038,Cassandra Gaines,Customer Service,19/10/2026,18:13,OUT
+E1039,Elizabeth Fowler,Finance,Oct 19 2026,09:05,IN
+E1039,  elizabeth fowler,Finance,Oct 19 2026,18:28,OUT
+E1040,Brittany Farmer,Drivers,Oct 19 2026,09:08,IN
+E1040,Brittany Farmer,Drivers,Oct 19 2026,18:26,OUT
+E1001,Allison Hill,Customer Service,20/10/2026,06:35,IN
+E1001,Allison   Hill,Customer Service,2026-10-20,17:43,OUT
+E1002,noah rhodes  ,Warehouse,20/10/2026,06:25,IN
+E1002,Noah Rhodes,Warehouse,2026-10-20,17:52,OUT
+E1004,Daniel Wagner,Customer Service,Oct 20 2026,06:02,IN
+E1004,Daniel Wagner,Customer Service,Oct 20 2026,17:22,OUT
+E1005,Cristian Santos,Drivers,2026-10-20,06:59,IN
+E1005,Cristian Santos,Drivers,2026-10-20,16:59,OUT
+E1005,Cristian Santos,Drivers,2026-10-20,16:59,OUT
+E1006,Connie Lawrence,Dispatch,2026-10-20,08:26,IN
+E1006,Connie Lawrence,Dispatch,Oct 20 2026,16:49,OUT
+E1007,  abigail shaffer,Dispatch,20/10/2026,09:23,IN
+E1007,Abigail Shaffer,Dispatch,2026-10-20,17:28,OUT
+E1008,Gina Moore,Dispatch,20/10/2026,09:24,IN
+E1008,Gina Moore,Dispatch,Oct 20 2026,16:43,OUT
+E1009,Gabrielle Davis,Customer Service,2026-10-20,07:41,IN
+E1009,Gabrielle   Davis,Customer Service,20/10/2026,17:07,OUT
+E1009,Gabrielle   Davis,Customer Service,20/10/2026,17:07,OUT
+E1010,Ryan Munoz,Warehouse,Oct 20 2026,09:33,IN
+E1010,Ryan Munoz,Warehouse,Oct 20 2026,16:46,OUT
+E1011,Monica Herrera  ,Customer Service,20/10/2026,06:48,IN
+E1011,Monica Herrera  ,Customer Service,20/10/2026,06:48,IN
+E1011,Monica Herrera,Customer Service,20/10/2026,16:19,OUT
+E1012,Jamie Arnold,Customer Service,Oct 20 2026,09:34,IN
+E1012,Jamie Arnold,Customer Service,2026-10-20,17:52,OUT
+E1013,Lisa Hensley,HR,Oct 20 2026,09:22,IN
+E1013,Lisa Hensley  ,HR,20/10/2026,16:17,OUT
+E1014,Michele Williams,Warehouse,Oct 20 2026,06:02,IN
+E1014,Michele Williams,Warehouse,2026-10-20,18:26,OUT
+E1015,Dylan Miller,HR,Oct 20 2026,06:15,IN
+E1015,Dylan Miller,HR,2026-10-20,16:04,OUT
+E1016,Brian Ramirez,Finance,20/10/2026,06:28,IN
+E1016,Brian   Ramirez,Finance,2026-10-20,18:43,OUT
+E1017,Holly Wood,Warehouse,2026-10-20,06:15,IN
+E1017,Holly Wood,Warehouse,Oct 20 2026,18:02,OUT
+E1018,  Derek Zuniga,Warehouse,2026-10-20,07:34,IN
+E1018,Derek Zuniga,Warehouse,2026-10-20,16:48,OUT
+E1019,Lisa Jackson,Warehouse,Oct 20 2026,06:08,IN
+E1019,Lisa Jackson,Warehouse,2026-10-20,18:18,OUT
+E1020,Carla Gray,Dispatch,Oct 20 2026,08:36,IN
+E1020,Carla Gray,Dispatch,20/10/2026,18:49,OUT
+E1021,Margaret Hawkins DDS,Dispatch,2026-10-20,08:15,IN
+E1021,Margaret Hawkins DDS,Dispatch,2026-10-20,17:56,OUT
+E1022,Patty Perez,HR,Oct 20 2026,07:26,IN
+E1022,Patty Perez,HR,Oct 20 2026,17:17,OUT
+E1023,Ethan Adams,HR,2026-10-20,07:40,IN
+E1023,Ethan Adams,HR,Oct 20 2026,18:27,OUT
+E1024,Tommy Walter,Warehouse,Oct 20 2026,06:22,IN
+E1024,Tommy Walter,Warehouse,2026-10-20,18:42,OUT
+E1025,MATTHEW   FOSTER,HR,Oct 20 2026,08:44,IN
+E1025,Matthew Foster,HR,Oct 20 2026,17:26,OUT
+E1026,Judy Baker,Dispatch,Oct 20 2026,09:11,IN
+E1026,Judy Baker,Dispatch,20/10/2026,18:30,OUT
+E1027,Justin Baker,Customer Service,Oct 20 2026,07:19,IN
+E1027,Justin Baker,Customer Service,2026-10-20,18:09,OUT
+E1028,Stephanie Ross,Customer Service,Oct 20 2026,06:35,IN
+E1028,Stephanie Ross,Customer Service,Oct 20 2026,17:26,OUT
+E1029,Zachary Hicks,Customer Service,20/10/2026,07:24,IN
+E1029,Zachary Hicks,Customer Service,Oct 20 2026,16:16,OUT
+E1030,Anthony Rodriguez,HR,20/10/2026,06:59,IN
+E1030,Anthony Rodriguez,HR,Oct 20 2026,17:54,OUT
+E1031,Rebecca Henderson,Finance,Oct 20 2026,07:03,IN
+E1031,Rebecca Henderson,Finance,20/10/2026,17:24,OUT
+E1032,James Ferrell,Dispatch,2026-10-20,06:55,IN
+E1032,James Ferrell,Dispatch,2026-10-20,16:12,OUT
+E1033,Tricia Valencia,Finance,2026-10-20,07:30,IN
+E1033,Tricia Valencia,Finance,Oct 20 2026,16:55,OUT
+E1033,Tricia Valencia,Finance,Oct 20 2026,16:55,OUT
+E1034,Nathan   Maldonado,HR,20/10/2026,08:58,IN
+E1034,Nathan Maldonado,HR,Oct 20 2026,16:13,OUT
+E1035,Debra Davidson,Drivers,20/10/2026,06:47,IN
+E1035,Debra Davidson,Drivers,Oct 20 2026,17:58,OUT
+E1036,Jeffrey Chavez,Warehouse,2026-10-20,07:25,IN
+E1036,Jeffrey Chavez,Warehouse,Oct 20 2026,16:35,OUT
+E1037,Sherri   Baker,Dispatch,Oct 20 2026,08:24,IN
+E1037,Sherri Baker,Dispatch,20/10/2026,17:34,OUT
+E1038,  Cassandra Gaines,Customer Service,20/10/2026,08:16,IN
+E1038,Cassandra Gaines,Customer Service,20/10/2026,17:32,OUT
+E1038,Cassandra Gaines,Customer Service,20/10/2026,17:32,OUT
+E1039,Elizabeth Fowler,Finance,Oct 20 2026,09:06,IN
+E1039,Elizabeth Fowler,Finance,20/10/2026,18:30,OUT
+E1039,Elizabeth Fowler,Finance,20/10/2026,18:30,OUT
+E1040,Brittany Farmer,Drivers,20/10/2026,08:58,IN
+E1040,Brittany Farmer,Drivers,20/10/2026,16:23,OUT
+E1001,Allison Hill,Customer Service,Oct 21 2026,06:36,IN
+E1001,Allison Hill,Customer Service,21/10/2026,16:47,OUT
+E1002,Noah Rhodes,Warehouse,Oct 21 2026,08:35,IN
+E1002,Noah Rhodes,Warehouse,21/10/2026,18:37,OUT
+E1003,Angie Henderson,Warehouse,Oct 21 2026,08:09,IN
+E1003,Angie Henderson,Warehouse,Oct 21 2026,08:09,IN
+E1003,Angie Henderson,Warehouse,2026-10-21,16:21,OUT
+E1004,Daniel Wagner  ,Customer Service,Oct 21 2026,07:31,IN
+E1004,Daniel Wagner,Customer Service,Oct 21 2026,18:41,OUT
+E1005,Cristian   Santos,Drivers,2026-10-21,08:16,IN
+E1005,Cristian Santos,Drivers,21/10/2026,17:46,OUT
+E1006,Connie Lawrence,Dispatch,Oct 21 2026,09:29,IN
+E1006,Connie Lawrence,Dispatch,Oct 21 2026,16:46,OUT
+E1007,Abigail Shaffer,Dispatch,21/10/2026,07:08,IN
+E1007,Abigail Shaffer,Dispatch,21/10/2026,18:34,OUT
+E1008,  gina moore,Dispatch,21/10/2026,06:33,IN
+E1008,Gina Moore,Dispatch,21/10/2026,24:75,OUT
+E1009,  GABRIELLE DAVIS,Customer Service,21/10/2026,06:48,IN
+E1009,Gabrielle Davis,Customer Service,2026-10-21,16:26,OUT
+E1010,Ryan Munoz,Warehouse,Oct 21 2026,07:04,IN
+E1010,Ryan Munoz,Warehouse,2026-10-21,18:09,OUT
+E1012,Jamie Arnold,Customer Service,21/10/2026,08:03,IN
+E1012,Jamie Arnold,Customer Service,Oct 21 2026,18:40,OUT
+E1013,Lisa Hensley,HR,2026-10-21,09:42,IN
+E1013,Lisa Hensley,HR,Oct 21 2026,17:01,OUT
+E1015,Dylan Miller,HR,2026-10-21,06:01,IN
+E1015,Dylan Miller,HR,21/10/2026,18:46,OUT
+E1016,Brian Ramirez,Finance,2026-10-21,08:01,IN
+E1016,Brian Ramirez,Finance,21/10/2026,18:52,OUT
+E1017,Holly Wood,Warehouse,2026-10-21,09:51,IN
+E1017,Holly Wood,Warehouse,2026-10-21,16:06,OUT
+E1018,Derek Zuniga,Warehouse,21/10/2026,07:15,IN
+E1018,Derek Zuniga,Warehouse,2026-10-21,16:39,OUT
+E1019,Lisa Jackson,Warehouse,Oct 21 2026,08:17,IN
+E1019,Lisa Jackson,Warehouse,21/10/2026,17:05,OUT
+E1020,Carla Gray,Dispatch,Oct 21 2026,09:29,IN
+E1020,Carla Gray,Dispatch,Oct 21 2026,18:15,OUT
+E1021,Margaret Hawkins DDS,Dispatch,Oct 21 2026,07:19,IN
+E1021,Margaret Hawkins DDS,Dispatch,Oct 21 2026,18:52,OUT
+E1022,Patty Perez,HR,Oct 21 2026,06:05,IN
+E1022,Patty Perez,HR,2026-10-21,17:24,OUT
+E1023,Ethan Adams,HR,2026-10-21,09:03,IN
+E1023,  ETHAN ADAMS,HR,2026-10-21,18:00,OUT
+E1024,Tommy Walter,Warehouse,21/10/2026,06:31,IN
+E1024,  Tommy Walter,Warehouse,21/10/2026,17:41,OUT
+E1025,Matthew Foster,HR,2026-10-21,06:57,IN
+E1025,Matthew Foster,HR,2026-10-21,18:58,OUT
+E1027,Justin Baker,Customer Service,21/10/2026,09:17,IN
+E1027,Justin Baker,Customer Service,21/10/2026,16:59,OUT
+E1028,Stephanie Ross,Customer Service,Oct 21 2026,08:57,IN
+E1028,Stephanie Ross,Customer Service,2026-10-21,18:36,OUT
+E1029,Zachary Hicks,Customer Service,2026-10-21,07:59,IN
+E1029,Zachary Hicks,Customer Service,21/10/2026,17:01,OUT
+E1030,Anthony Rodriguez,HR,21/10/2026,07:48,IN
+E1030,Anthony Rodriguez,HR,2026-10-21,18:52,OUT
+E1031,Rebecca Henderson,Finance,Oct 21 2026,06:19,IN
+E1031,Rebecca Henderson,Finance,21/10/2026,16:36,OUT
+E1032,James Ferrell,Dispatch,Oct 21 2026,09:43,IN
+E1032,James Ferrell,Dispatch,2026-10-21,18:21,OUT
+E1033,Tricia Valencia,Finance,Oct 21 2026,07:50,IN
+E1033,Tricia Valencia,Finance,2026-10-21,18:46,OUT
+E1034,Nathan Maldonado,HR,Oct 21 2026,08:03,IN
+E1034,Nathan Maldonado,HR,21/10/2026,16:27,OUT
+E1035,Debra Davidson,Drivers,21/10/2026,06:21,IN
+E1035,Debra Davidson,Drivers,2026-10-21,18:49,OUT
+,Jeffrey Chavez,Warehouse,21/10/2026,09:49,IN
+E1036,Jeffrey Chavez  ,Warehouse,Oct 21 2026,17:01,OUT
+E1037,Sherri Baker,Dispatch,Oct 21 2026,09:31,IN
+E1037,Sherri Baker,Dispatch,Oct 21 2026,16:22,OUT
+E1038,Cassandra Gaines,Customer Service,2026-10-21,09:27,IN
+E1038,Cassandra Gaines,Customer Service,Oct 21 2026,16:43,OUT
+E1039,Elizabeth Fowler,Finance,Oct 21 2026,09:05,IN
+E1039,Elizabeth Fowler,Finance,21/10/2026,18:18,OUT
+E1040,Brittany Farmer,Drivers,2026-10-21,06:05,IN
+E1040,Brittany Farmer,Drivers,Oct 21 2026,17:09,OUT
+E1040,Brittany Farmer,Drivers,Oct 21 2026,17:09,OUT
+E1001,Allison Hill,Customer Service,Oct 22 2026,07:47,IN
+E1001,Allison Hill,Customer Service,22/10/2026,17:20,OUT
+E1002,Noah Rhodes,Warehouse,2026-10-22,06:00,IN
+E1002,Noah Rhodes,Warehouse,2026-10-22,17:28,OUT
+E1003,Angie Henderson,Warehouse,22/10/2026,08:06,IN
+E1003,Angie Henderson,Warehouse,22/10/2026,16:05,OUT
+E1004,Daniel Wagner,Customer Service,22/10/2026,09:35,IN
+E1004,Daniel Wagner,Customer Service,22/10/2026,18:32,OUT
+E1005,Cristian Santos,Drivers,2026-10-22,06:05,IN
+E1005,Cristian Santos,Drivers,2026-10-22,17:35,OUT
+E1006,Connie Lawrence,Dispatch,Oct 22 2026,08:55,IN
+E1006,Connie Lawrence,Dispatch,Oct 22 2026,17:00,OUT
+E1007,Abigail Shaffer,Dispatch,Oct 22 2026,09:49,IN
+E1007,Abigail Shaffer  ,Dispatch,2026-10-22,16:46,OUT
+E1008,Gina Moore,Dispatch,Oct 22 2026,07:36,IN
+E1008,Gina Moore,Dispatch,Oct 22 2026,18:10,OUT
+E1009,Gabrielle Davis,Customer Service,22/10/2026,07:08,IN
+E1009,Gabrielle Davis,Customer Service,2026-10-22,17:19,OUT
+E1009,Gabrielle Davis,Customer Service,2026-10-22,17:19,OUT
+E1010,Ryan Munoz,Warehouse,22/10/2026,07:04,IN
+E1010,Ryan Munoz,Warehouse,Oct 22 2026,16:27,OUT
+E1011,Monica Herrera,Customer Service,2026-10-22,08:30,IN
+E1011,Monica Herrera,Customer Service,22/10/2026,16:23,OUT
+E1012,Jamie Arnold  ,Customer Service,Oct 22 2026,07:46,IN
+E1012,Jamie Arnold,Customer Service,Oct 22 2026,18:31,OUT
+E1013,Lisa Hensley,HR,2026-10-22,07:29,IN
+E1013,Lisa Hensley,HR,2026-10-22,07:29,IN
+E1013,Lisa Hensley,HR,22/10/2026,16:08,OUT
+E1014,Michele Williams,Warehouse,Oct 22 2026,09:21,IN
+E1014,  Michele Williams,Warehouse,Oct 22 2026,18:24,OUT
+E1015,Dylan Miller,HR,2026-10-22,08:28,IN
+E1015,Dylan Miller,HR,2026-10-22,17:27,OUT
+E1016,Brian Ramirez,Finance,2026-10-22,07:19,IN
+E1016,Brian Ramirez,Finance,Oct 22 2026,17:38,OUT
+E1017,Holly Wood,Warehouse,Oct 22 2026,07:30,IN
+E1017,Holly Wood,Warehouse,22/10/2026,17:11,OUT
+E1018,Derek Zuniga,Warehouse,22/10/2026,08:18,IN
+E1018,  derek zuniga,Warehouse,Oct 22 2026,18:44,OUT
+E1019,Lisa Jackson,Warehouse,Oct 22 2026,07:20,IN
+E1019,Lisa Jackson,Warehouse,Oct 22 2026,17:17,OUT
+E1020,Carla Gray,Dispatch,2026-10-22,09:23,IN
+E1020,Carla Gray,Dispatch,2026-10-22,16:59,OUT
+E1021,Margaret Hawkins DDS,Dispatch,22/10/2026,07:43,IN
+E1021,Margaret Hawkins DDS,Dispatch,22/10/2026,18:01,OUT
+E1022,Patty Perez  ,HR,22/10/2026,09:45,IN
+E1022,Patty Perez,HR,2026-10-22,16:28,OUT
+E1023,Ethan Adams,HR,2026-10-22,06:52,IN
+E1023,Ethan Adams,HR,22/10/2026,17:43,OUT
+E1024,Tommy   Walter,Warehouse,2026-10-22,08:15,IN
+E1024,Tommy Walter,Warehouse,22/10/2026,17:42,OUT
+E1025,Matthew Foster,HR,Oct 22 2026,09:50,IN
+E1025,Matthew Foster,HR,Oct 22 2026,17:04,OUT
+E1026,Judy Baker,Dispatch,2026-10-22,09:37,IN
+E1026,Judy Baker,Dispatch,Oct 22 2026,17:34,OUT
+E1027,  Justin Baker,Customer Service,22/10/2026,09:34,IN
+E1027,Justin Baker,Customer Service,22/10/2026,16:50,OUT
+E1028,Stephanie Ross  ,Customer Service,2026-10-22,06:06,IN
+E1028,Stephanie Ross,Customer Service,22/10/2026,16:42,OUT
+E1029,Zachary Hicks,Customer Service,Oct 22 2026,07:41,IN
+E1029,Zachary Hicks,Customer Service,22/10/2026,18:02,OUT
+E1030,Anthony Rodriguez,HR,Oct 22 2026,09:48,IN
+E1030,Anthony Rodriguez,HR,2026-10-22,17:50,OUT
+E1031,Rebecca Henderson,Finance,2026-10-22,06:06,IN
+E1031,Rebecca Henderson,Finance,22/10/2026,17:14,OUT
+E1032,James Ferrell,Dispatch,Oct 22 2026,07:28,IN
+E1032,  james ferrell,Dispatch,2026-10-22,17:25,OUT
+E1033,Tricia Valencia,Finance,22/10/2026,07:22,IN
+E1033,Tricia Valencia,Finance,22/10/2026,16:30,OUT
+E1034,Nathan Maldonado,HR,Oct 22 2026,09:58,IN
+E1034,Nathan Maldonado,HR,Oct 22 2026,16:07,OUT
+E1035,  DEBRA DAVIDSON,Drivers,2026-10-22,07:22,IN
+E1035,Debra Davidson,Drivers,Oct 22 2026,17:21,OUT
+E1036,Jeffrey Chavez,Warehouse,Oct 22 2026,07:33,IN
+E1037,Sherri Baker,Dispatch,Oct 22 2026,09:46,IN
+E1037,Sherri Baker,Dispatch,Oct 22 2026,18:28,OUT
+E1038,Cassandra Gaines,Customer Service,2026-10-22,08:02,IN
+E1038,Cassandra Gaines,Customer Service,2026-10-22,18:07,OUT
+E1040,Brittany Farmer,Drivers,2026-10-22,06:43,IN
+E1040,Brittany Farmer,Drivers,22/10/2026,16:59,OUT
+E1001,Allison Hill,Customer Service,23/10/2026,07:33,IN
+E1001,Allison Hill,Customer Service,23/10/2026,16:35,OUT
+E1002,Noah Rhodes,Warehouse,Oct 23 2026,09:29,IN
+E1002,Noah Rhodes,Warehouse,Oct 23 2026,16:51,OUT
+E1003,Angie Henderson,Warehouse,2026-10-23,07:11,IN
+E1003,Angie Henderson,Warehouse,2026-10-23,18:42,OUT
+E1004,Daniel Wagner,Customer Service,Oct 23 2026,06:47,IN
+E1004,Daniel Wagner,Customer Service,23/10/2026,18:56,OUT
+E1005,Cristian Santos,Drivers,23/10/2026,09:24,IN
+E1005,Cristian Santos,Drivers,23/10/2026,09:24,IN
+E1005,Cristian Santos,Drivers,23/10/2026,16:45,OUT
+E1006,Connie   Lawrence,Dispatch,23/10/2026,08:48,IN
+E1006,Connie Lawrence,Dispatch,2026-10-23,18:51,OUT
+E1007,Abigail Shaffer,Dispatch,23/10/2026,06:51,IN
+E1007,Abigail Shaffer,Dispatch,23/10/2026,18:11,OUT
+E1008,Gina Moore,Dispatch,Oct 23 2026,07:29,IN
+E1008,Gina Moore,Dispatch,Oct 23 2026,16:16,OUT
+E1009,Gabrielle Davis,Customer Service,2026-10-23,09:33,IN
+E1009,Gabrielle Davis,Customer Service,2026-10-23,09:33,IN
+E1009,GABRIELLE DAVIS  ,Customer Service,23/10/2026,18:20,OUT
+E1010,Ryan Munoz,Warehouse,2026-10-23,09:37,IN
+E1010,Ryan Munoz,Warehouse,2026-10-23,09:37,IN
+E1010,Ryan Munoz,Warehouse,23/10/2026,16:22,OUT
+E1011,Monica Herrera,Customer Service,Oct 23 2026,09:39,IN
+E1011,Monica Herrera,Customer Service,23/10/2026,16:52,OUT
+E1012,Jamie Arnold,Customer Service,Oct 23 2026,08:58,IN
+E1012,Jamie Arnold,Customer Service,2026-10-23,18:37,OUT
+E1012,Jamie Arnold,Customer Service,2026-10-23,18:37,OUT
+E1013,Lisa Hensley,HR,23/10/2026,07:20,IN
+E1013,Lisa Hensley,HR,2026-10-23,16:15,OUT
+E1014,Michele Williams,Warehouse,2026-10-23,07:23,IN
+E1014,Michele Williams,Warehouse,2026-10-23,18:09,OUT
+E1015,dylan   miller,HR,Oct 23 2026,09:38,IN
+E1015,dylan   miller,HR,Oct 23 2026,09:38,IN
+E1015,Dylan Miller,HR,23/10/2026,16:36,OUT
+E1016,Brian Ramirez,Finance,2026-10-23,07:31,IN
+E1016,Brian Ramirez,Finance,Oct 23 2026,18:34,OUT
+E1017,Holly Wood,Warehouse,2026-10-23,07:35,IN
+E1017,Holly Wood,Warehouse,2026-10-23,16:31,OUT
+E1018,Derek Zuniga,Warehouse,Oct 23 2026,07:20,IN
+E1018,DEREK   ZUNIGA,Warehouse,2026-10-23,17:39,OUT
+E1019,Lisa Jackson,Warehouse,2026-10-23,08:00,IN
+E1019,Lisa Jackson,Warehouse,Oct 23 2026,17:08,OUT
+E1020,Carla Gray,Dispatch,2026-10-23,09:35,IN
+E1020,Carla Gray,Dispatch,23/10/2026,18:41,OUT
+E1021,Margaret Hawkins DDS,Dispatch,2026-10-23,09:26,IN
+E1021,Margaret Hawkins DDS  ,Dispatch,23/10/2026,18:53,OUT
+E1022,Patty Perez,HR,Oct 23 2026,07:05,IN
+E1022,Patty Perez,HR,2026-10-23,18:01,OUT
+E1023,Ethan Adams,HR,23/10/2026,07:18,IN
+E1023,Ethan Adams  ,HR,23/10/2026,16:17,OUT
+E1024,Tommy Walter  ,Warehouse,23/10/2026,08:10,IN
+E1024,Tommy Walter  ,Warehouse,23/10/2026,08:10,IN
+E1024,Tommy Walter,Warehouse,2026-10-23,17:36,OUT
+E1025,Matthew Foster,HR,23/10/2026,09:35,IN
+E1025,Matthew Foster,HR,2026-10-23,18:07,OUT
+E1026,Judy Baker,Dispatch,Oct 23 2026,08:49,IN
+E1026,Judy Baker,Dispatch,Oct 23 2026,08:49,IN
+E1026,Judy Baker,Dispatch,Oct 23 2026,18:52,OUT
+E1027,Justin Baker,Customer Service,2026-10-23,06:48,IN
+E1027,Justin   Baker,Customer Service,2026-10-23,18:28,OUT
+E1028,Stephanie Ross,Customer Service,Oct 23 2026,09:06,IN
+E1028,Stephanie Ross,Customer Service,Oct 23 2026,18:53,OUT
+E1029,Zachary Hicks,Customer Service,23/10/2026,07:19,IN
+E1029,Zachary Hicks,Customer Service,Oct 23 2026,16:28,OUT
+E1030,Anthony Rodriguez,HR,23/10/2026,06:28,IN
+E1030,Anthony Rodriguez,HR,23/10/2026,06:28,IN
+E1030,Anthony Rodriguez,HR,Oct 23 2026,16:49,OUT
+E1031,  Rebecca Henderson,Finance,Oct 23 2026,07:51,IN
+E1031,Rebecca Henderson,Finance,2026-10-23,18:37,OUT
+E1032,James   Ferrell,Dispatch,Oct 23 2026,09:10,IN
+E1032,James Ferrell,Dispatch,Oct 23 2026,18:08,OUT
+E1033,Tricia Valencia,Finance,Oct 23 2026,07:51,IN
+E1033,Tricia Valencia,Finance,Oct 23 2026,07:51,IN
+E1033,Tricia Valencia,Finance,2026-10-23,16:36,OUT
+E1034,Nathan Maldonado,HR,23/10/2026,08:38,IN
+E1034,  nathan maldonado,HR,Oct 23 2026,18:10,OUT
+E1035,Debra Davidson,Drivers,Oct 23 2026,08:18,IN
+E1035,debra   davidson,Drivers,Oct 23 2026,18:17,OUT
+E1036,Jeffrey Chavez,Warehouse,2026-10-23,06:08,IN
+E1036,Jeffrey Chavez,Warehouse,23/10/2026,17:58,OUT
+E1037,Sherri Baker,Dispatch,2026-10-23,08:55,IN
+E1037,Sherri Baker,Dispatch,2026-10-23,18:08,OUT
+E1038,Cassandra Gaines,Customer Service,23/10/2026,07:15,IN
+E1038,Cassandra Gaines,Customer Service,2026-10-23,16:45,OUT
+E1039,Elizabeth Fowler,Finance,Oct 23 2026,07:48,IN
+E1039,Elizabeth Fowler,Finance,Oct 23 2026,18:25,OUT
+E1040,Brittany Farmer,Drivers,23/10/2026,08:40,IN
+E1040,Brittany Farmer,Drivers,2026-10-23,17:24,OUT
+E1001,Allison Hill,Customer Service,26/10/2026,06:25,IN
+E1001,Allison Hill  ,Customer Service,Oct 26 2026,18:47,OUT
+E1002,Noah Rhodes,Warehouse,2026-10-26,08:29,IN
+E1002,Noah Rhodes,Warehouse,2026-10-26,17:20,OUT
+E1003,Angie Henderson,Warehouse,26/10/2026,06:46,IN
+E1003,Angie Henderson,Warehouse,Oct 26 2026,17:40,OUT
+E1004,Daniel Wagner,Customer Service,26/10/2026,08:54,IN
+E1004,Daniel Wagner,Customer Service,Oct 26 2026,16:50,OUT
+E1005,Cristian Santos,Drivers,Oct 26 2026,07:27,IN
+E1005,Cristian Santos  ,Drivers,26/10/2026,16:31,OUT
+E1006,Connie Lawrence,Dispatch,2026-10-26,08:21,IN
+E1006,Connie Lawrence,Dispatch,2026-10-26,18:36,OUT
+E1007,Abigail Shaffer,Dispatch,26/10/2026,09:50,IN
+E1007,Abigail Shaffer,Dispatch,Oct 26 2026,17:57,OUT
+E1008,Gina Moore,Dispatch,26/10/2026,06:02,IN
+E1008,Gina   Moore,Dispatch,2026-10-26,16:40,OUT
+E1009,Gabrielle Davis,Customer Service,26/10/2026,09:01,IN
+E1009,Gabrielle Davis,Customer Service,Oct 26 2026,16:59,OUT
+E1010,Ryan Munoz,Warehouse,Oct 26 2026,09:29,IN
+E1010,Ryan Munoz,Warehouse,2026-10-26,16:27,OUT
+E1011,Monica Herrera,Customer Service,26/10/2026,07:56,IN
+E1011,Monica Herrera,Customer Service,26/10/2026,18:19,OUT
+E1012,  Jamie Arnold,Customer Service,Oct 26 2026,08:05,IN
+E1012,Jamie Arnold,Customer Service,Oct 26 2026,18:23,OUT
+E1013,Lisa Hensley,HR,2026-10-26,08:42,IN
+E1013,Lisa Hensley,HR,2026-10-26,18:10,OUT
+E1014,Michele Williams,Warehouse,2026-10-26,08:46,IN
+E1014,Michele Williams,Warehouse,Oct 26 2026,18:48,OUT
+E1015,  Dylan Miller,HR,26/10/2026,06:45,IN
+E1015,Dylan Miller,HR,Oct 26 2026,16:00,OUT
+E1016,BRIAN RAMIREZ  ,Finance,Oct 26 2026,06:08,IN
+E1016,Brian Ramirez,Finance,2026-10-26,18:14,OUT
+E1017,Holly Wood,Warehouse,2026-10-26,09:00,IN
+E1017,Holly Wood,Warehouse,2026-10-26,16:44,OUT
+E1018,Derek Zuniga,Warehouse,Oct 26 2026,06:55,IN
+E1018,Derek Zuniga,Warehouse,26/10/2026,17:44,OUT
+,Lisa Jackson,Warehouse,26/10/2026,06:14,IN
+E1020,Carla Gray,Dispatch,26/10/2026,06:06,IN
+E1020,Carla Gray,Dispatch,26/10/2026,17:23,OUT
+E1021,Margaret Hawkins DDS,Dispatch,Oct 26 2026,07:24,IN
+E1021,Margaret Hawkins DDS,Dispatch,2026-10-26,16:41,OUT
+E1022,Patty Perez,HR,2026-10-26,07:04,IN
+E1022,Patty Perez,HR,26/10/2026,18:36,OUT
+E1024,Tommy Walter,Warehouse,Oct 26 2026,09:22,IN
+E1024,Tommy Walter,Warehouse,26/10/2026,18:13,OUT
+E1025,MATTHEW FOSTER  ,HR,26/10/2026,07:58,IN
+E1025,MATTHEW   FOSTER,HR,Oct 26 2026,17:39,OUT
+E1026,Judy Baker,Dispatch,26/10/2026,07:05,IN
+E1026,Judy   Baker,Dispatch,2026-10-26,16:08,OUT
+E1027,Justin Baker,Customer Service,Oct 26 2026,09:22,IN
+E1027,Justin Baker,Customer Service,26/10/2026,17:20,OUT
+E1028,Stephanie Ross,Customer Service,2026-10-26,07:17,IN
+E1028,Stephanie Ross,Customer Service,Oct 26 2026,18:05,OUT
+E1029,Zachary Hicks,Customer Service,26/10/2026,08:49,IN
+E1029,Zachary Hicks,Customer Service,26/10/2026,18:01,OUT
+E1030,Anthony Rodriguez,HR,2026-10-26,08:13,IN
+E1030,Anthony Rodriguez,HR,Oct 26 2026,18:38,OUT
+E1031,Rebecca Henderson,Finance,26/10/2026,09:18,IN
+E1031,Rebecca Henderson,Finance,2026-10-26,18:03,OUT
+E1032,James Ferrell,Dispatch,2026-10-26,07:31,IN
+E1032,  James Ferrell,Dispatch,26/10/2026,17:07,OUT
+E1033,Tricia Valencia,Finance,26/10/2026,06:33,IN
+E1033,Tricia Valencia,Finance,Oct 26 2026,16:23,OUT
+E1034,Nathan Maldonado,HR,2026-10-26,07:24,IN
+E1034,Nathan Maldonado,HR,2026-10-26,18:26,OUT
+E1035,DEBRA DAVIDSON  ,Drivers,Oct 26 2026,07:48,IN
+E1035,Debra Davidson,Drivers,26/10/2026,17:49,OUT
+E1036,Jeffrey Chavez,Warehouse,Oct 26 2026,06:00,IN
+E1036,Jeffrey Chavez,Warehouse,Oct 26 2026,17:13,OUT
+E1038,Cassandra Gaines,Customer Service,Oct 26 2026,09:32,IN
+E1038,Cassandra Gaines,Customer Service,Oct 26 2026,17:40,OUT
+E1039,Elizabeth Fowler,Finance,Oct 26 2026,09:27,IN
+E1039,Elizabeth Fowler,Finance,2026-10-26,18:25,OUT
+E1040,Brittany Farmer,Drivers,26/10/2026,07:17,IN
+E1040,Brittany Farmer,Drivers,2026-10-26,16:19,OUT
+E1001,Allison   Hill,Customer Service,Oct 27 2026,07:51,IN
+E1001,allison   hill,Customer Service,2026-10-27,16:34,OUT
+E1002,Noah Rhodes,Warehouse,27/10/2026,06:19,IN
+E1003,Angie Henderson,Warehouse,27/10/2026,07:03,IN
+E1003,Angie Henderson,Warehouse,Oct 27 2026,16:05,OUT
+E1004,Daniel Wagner,Customer Service,27/10/2026,06:29,IN
+E1004,Daniel Wagner,Customer Service,27/10/2026,18:38,OUT
+E1005,cristian   santos,Drivers,Oct 27 2026,07:07,IN
+E1005,Cristian Santos,Drivers,2026-10-27,16:45,OUT
+E1006,Connie Lawrence  ,Dispatch,2026-10-27,06:10,IN
+E1006,Connie Lawrence,Dispatch,Oct 27 2026,17:22,OUT
+E1007,Abigail Shaffer,Dispatch,2026-10-27,08:10,IN
+E1007,Abigail Shaffer,Dispatch,Oct 27 2026,17:08,OUT
+E1008,Gina Moore,Dispatch,Oct 27 2026,08:46,IN
+E1008,Gina Moore,Dispatch,Oct 27 2026,16:49,OUT
+E1009,Gabrielle Davis,Customer Service,2026-10-27,08:51,IN
+E1009,Gabrielle Davis,Customer Service,2026-10-27,17:17,OUT
+E1010,Ryan Munoz,Warehouse,27/10/2026,08:45,IN
+E1010,Ryan Munoz,Warehouse,Oct 27 2026,18:40,OUT
+E1011,Monica   Herrera,Customer Service,Oct 27 2026,09:32,IN
+E1011,Monica Herrera,Customer Service,Oct 27 2026,27:00,OUT
+E1012,Jamie   Arnold,Customer Service,2026-10-27,07:23,IN
+E1012,Jamie Arnold,Customer Service,27/10/2026,16:16,OUT
+E1013,Lisa Hensley,HR,2026-10-27,06:14,IN
+E1013,  lisa hensley,HR,Oct 27 2026,18:32,OUT
+E1015,Dylan Miller,HR,Oct 27 2026,06:15,IN
+E1015,Dylan Miller,HR,Oct 27 2026,06:15,IN
+E1015,Dylan Miller,HR,2026-10-27,16:30,OUT
+E1016,Brian Ramirez  ,Finance,27/10/2026,07:11,IN
+E1016,Brian Ramirez,Finance,2026-10-27,16:35,OUT
+E1017,Holly Wood,Warehouse,Oct 27 2026,09:14,IN
+E1017,Holly Wood,Warehouse,Oct 27 2026,17:15,OUT
+E1018,Derek Zuniga,Warehouse,Oct 27 2026,08:17,IN
+E1018,Derek Zuniga,Warehouse,2026-10-27,16:36,OUT
+E1019,Lisa Jackson,Warehouse,2026-10-27,06:11,IN
+E1019,Lisa Jackson,Warehouse,27/10/2026,16:51,OUT
+E1020,  CARLA GRAY,Dispatch,2026-10-27,06:25,IN
+E1020,Carla Gray,Dispatch,Oct 27 2026,16:56,OUT
+E1021,Margaret Hawkins DDS,Dispatch,2026-10-27,08:49,IN
+E1021,  margaret hawkins dds,Dispatch,27/10/2026,17:20,OUT
+E1022,Patty Perez,HR,27/10/2026,09:00,IN
+E1022,Patty Perez,HR,27/10/2026,17:12,OUT
+E1022,Patty Perez,HR,27/10/2026,17:12,OUT
+E1023,Ethan Adams,HR,27/10/2026,08:47,IN
+E1023,Ethan Adams,HR,27/10/2026,18:15,OUT
+E1024,Tommy Walter,Warehouse,Oct 27 2026,09:49,IN
+E1024,Tommy Walter,Warehouse,Oct 27 2026,16:46,OUT
+E1025,Matthew Foster,HR,Oct 27 2026,07:09,IN
+E1025,Matthew Foster,HR,27/10/2026,16:59,OUT
+E1026,Judy Baker,Dispatch,2026-10-27,07:34,IN
+E1026,Judy Baker,Dispatch,2026-10-27,17:40,OUT
+E1027,Justin Baker,Customer Service,2026-10-27,06:21,IN
+E1027,Justin Baker  ,Customer Service,2026-10-27,16:48,OUT
+E1028,Stephanie Ross,Customer Service,2026-10-27,08:06,IN
+E1028,stephanie   ross,Customer Service,2026-10-27,16:33,OUT
+E1029,Zachary Hicks,Customer Service,Oct 27 2026,09:31,IN
+E1029,Zachary Hicks,Customer Service,Oct 27 2026,16:09,OUT
+E1030,  anthony rodriguez,HR,27/10/2026,06:02,IN
+E1030,Anthony Rodriguez,HR,Oct 27 2026,16:57,OUT
+E1031,Rebecca Henderson,Finance,Oct 27 2026,09:44,IN
+E1031,Rebecca Henderson,Finance,Oct 27 2026,17:29,OUT
+E1032,James Ferrell,Dispatch,2026-10-27,06:37,IN
+E1032,James Ferrell,Dispatch,Oct 27 2026,16:32,OUT
+E1033,Tricia Valencia,Finance,2026-10-27,09:04,IN
+E1033,Tricia Valencia,Finance,2026-10-27,18:36,OUT
+E1033,Tricia Valencia,Finance,2026-10-27,18:36,OUT
+E1034,Nathan Maldonado,HR,Oct 27 2026,07:15,IN
+E1034,Nathan Maldonado,HR,2026-10-27,17:16,OUT
+E1035,Debra Davidson,Drivers,27/10/2026,09:44,IN
+E1035,Debra Davidson,Drivers,2026-10-27,18:20,OUT
+E1035,Debra Davidson,Drivers,2026-10-27,18:20,OUT
+E1036,Jeffrey Chavez,Warehouse,Oct 27 2026,08:14,IN
+E1036,Jeffrey Chavez,Warehouse,27/10/2026,16:12,OUT
+E1037,Sherri Baker,Dispatch,2026-10-27,06:09,IN
+E1037,Sherri Baker,Dispatch,Oct 27 2026,16:10,OUT
+E1038,cassandra gaines  ,Customer Service,Oct 27 2026,08:26,IN
+E1038,Cassandra Gaines,Customer Service,27/10/2026,16:34,OUT
+E1039,Elizabeth Fowler,Finance,Oct 27 2026,07:28,IN
+E1039,Elizabeth Fowler,Finance,Oct 27 2026,17:29,OUT
+E1040,Brittany Farmer,Drivers,27/10/2026,13:99,IN
+E1040,Brittany Farmer,Drivers,2026-10-27,16:51,OUT
+E1001,Allison Hill,Customer Service,28/10/2026,06:13,IN
+E1001,Allison Hill,Customer Service,28/10/2026,17:09,OUT
+E1002,Noah Rhodes,Warehouse,28/10/2026,07:22,IN
+E1002,Noah   Rhodes,Warehouse,2026-10-28,17:32,OUT
+E1004,Daniel Wagner,Customer Service,2026-10-28,07:01,IN
+E1004,Daniel Wagner,Customer Service,2026-10-28,17:54,OUT
+E1005,Cristian Santos,Drivers,2026-10-28,07:06,IN
+E1005,Cristian Santos,Drivers,2026-10-28,17:06,OUT
+E1006,Connie Lawrence,Dispatch,28/10/2026,07:07,IN
+E1006,Connie Lawrence,Dispatch,2026-10-28,16:03,OUT
+E1007,ABIGAIL   SHAFFER,Dispatch,28/10/2026,07:08,IN
+E1007,Abigail Shaffer,Dispatch,28/10/2026,16:52,OUT
+E1008,Gina Moore,Dispatch,2026-10-28,06:37,IN
+E1008,Gina Moore,Dispatch,Oct 28 2026,18:16,OUT
+E1009,Gabrielle Davis,Customer Service,Oct 28 2026,06:01,IN
+E1009,Gabrielle Davis,Customer Service,2026-10-28,16:12,OUT
+E1010,Ryan Munoz,Warehouse,2026-10-28,09:51,IN
+E1010,Ryan Munoz,Warehouse,2026-10-28,16:05,OUT
+E1011,Monica Herrera,Customer Service,2026-10-28,08:07,IN
+E1011,Monica Herrera  ,Customer Service,28/10/2026,16:29,OUT
+E1012,Jamie Arnold,Customer Service,Oct 28 2026,09:52,IN
+E1012,Jamie Arnold,Customer Service,Oct 28 2026,09:52,IN
+E1012,Jamie Arnold,Customer Service,28/10/2026,18:25,OUT
+E1013,Lisa Hensley,HR,Oct 28 2026,09:43,IN
+E1013,LISA HENSLEY  ,HR,28/10/2026,17:11,OUT
+E1014,Michele Williams,Warehouse,28/10/2026,07:17,IN
+E1014,Michele Williams,Warehouse,2026-10-28,17:28,OUT
+E1015,Dylan Miller,HR,28/10/2026,06:39,IN
+E1015,  Dylan Miller,HR,28/10/2026,18:39,OUT
+E1016,Brian Ramirez  ,Finance,2026-10-28,08:31,IN
+E1016,Brian Ramirez,Finance,Oct 28 2026,17:56,OUT
+E1017,Holly Wood,Warehouse,Oct 28 2026,06:05,IN
+E1017,Holly Wood,Warehouse,28/10/2026,17:24,OUT
+E1017,Holly Wood,Warehouse,28/10/2026,17:24,OUT
+E1018,Derek Zuniga,Warehouse,Oct 28 2026,07:41,IN
+E1018,Derek Zuniga,Warehouse,Oct 28 2026,07:41,IN
+E1018,Derek Zuniga,Warehouse,28/10/2026,18:15,OUT
+E1019,Lisa   Jackson,Warehouse,28/10/2026,06:24,IN
+E1019,Lisa Jackson,Warehouse,Oct 28 2026,18:22,OUT
+E1020,Carla Gray,Dispatch,Oct 28 2026,09:22,IN
+E1020,Carla Gray,Dispatch,Oct 28 2026,18:32,OUT
+E1021,Margaret Hawkins DDS,Dispatch,Oct 28 2026,08:11,IN
+E1021,Margaret Hawkins DDS,Dispatch,Oct 28 2026,16:20,OUT
+E1022,Patty   Perez,HR,Oct 28 2026,06:57,IN
+E1022,patty perez  ,HR,Oct 28 2026,17:03,OUT
+E1023,Ethan Adams,HR,Oct 28 2026,09:33,IN
+E1023,Ethan Adams,HR,2026-10-28,17:49,OUT
+E1024,Tommy Walter,Warehouse,Oct 28 2026,07:10,IN
+E1024,Tommy Walter,Warehouse,2026-10-28,16:15,OUT
+E1025,Matthew Foster,HR,28/10/2026,08:34,IN
+E1025,Matthew Foster,HR,28/10/2026,18:03,OUT
+E1026,Judy Baker,Dispatch,2026-10-28,07:36,IN
+E1026,Judy Baker,Dispatch,2026-10-28,17:22,OUT
+E1027,  JUSTIN BAKER,Customer Service,Oct 28 2026,07:11,IN
+E1027,Justin Baker,Customer Service,Oct 28 2026,16:37,OUT
+E1028,Stephanie Ross,Customer Service,28/10/2026,08:58,IN
+E1028,Stephanie Ross,Customer Service,Oct 28 2026,18:01,OUT
+E1029,Zachary Hicks,Customer Service,2026-10-28,08:36,IN
+E1029,ZACHARY HICKS  ,Customer Service,Oct 28 2026,18:09,OUT
+E1030,Anthony Rodriguez,HR,28/10/2026,07:53,IN
+E1030,Anthony Rodriguez,HR,Oct 28 2026,17:34,OUT
+E1031,Rebecca Henderson,Finance,Oct 28 2026,09:02,IN
+E1031,Rebecca Henderson,Finance,2026-10-28,16:03,OUT
+E1032,James Ferrell,Dispatch,2026-10-28,07:01,IN
+E1032,James Ferrell,Dispatch,28/10/2026,18:30,OUT
+E1034,nathan maldonado  ,HR,28/10/2026,07:51,IN
+E1034,Nathan Maldonado,HR,28/10/2026,16:21,OUT
+E1035,Debra Davidson,Drivers,28/10/2026,08:03,IN
+E1035,Debra Davidson,Drivers,28/10/2026,16:09,OUT
+E1036,Jeffrey Chavez,Warehouse,28/10/2026,07:49,IN
+E1036,Jeffrey Chavez,Warehouse,2026-10-28,16:54,OUT
+E1037,Sherri Baker,Dispatch,28/10/2026,08:04,IN
+E1037,Sherri Baker,Dispatch,28/10/2026,17:45,OUT
+E1038,Cassandra Gaines,Customer Service,Oct 28 2026,09:37,IN
+E1038,Cassandra Gaines,Customer Service,2026-10-28,16:21,OUT
+E1039,Elizabeth Fowler,Finance,Oct 28 2026,07:10,IN
+E1039,Elizabeth Fowler,Finance,Oct 28 2026,18:27,OUT
+E1040,  BRITTANY FARMER,Drivers,2026-10-28,09:41,IN
+E1040,Brittany Farmer,Drivers,28/10/2026,17:11,OUT
+E1001,Allison Hill,Customer Service,Oct 29 2026,08:14,IN
+E1001,Allison Hill,Customer Service,29/10/2026,18:37,OUT
+E1002,Noah Rhodes,Warehouse,2026-10-29,09:19,IN
+E1002,Noah Rhodes,Warehouse,Oct 29 2026,18:44,OUT
+E1003,Angie Henderson,Warehouse,Oct 29 2026,07:46,IN
+E1003,Angie Henderson,Warehouse,2026-10-29,16:44,OUT
+E1004,Daniel Wagner,Customer Service,2026-10-29,09:54,IN
+E1004,Daniel Wagner,Customer Service,Oct 29 2026,18:02,OUT
+E1005,Cristian Santos,Drivers,Oct 29 2026,08:58,IN
+E1005,Cristian Santos,Drivers,Oct 29 2026,18:14,OUT
+E1006,Connie Lawrence,Dispatch,2026-10-29,06:59,IN
+E1006,Connie Lawrence,Dispatch,29/10/2026,17:09,OUT
+E1007,Abigail   Shaffer,Dispatch,29/10/2026,06:15,IN
+E1007,Abigail Shaffer,Dispatch,29/10/2026,17:20,OUT
+E1008,Gina   Moore,Dispatch,29/10/2026,06:52,IN
+E1008,Gina Moore,Dispatch,2026-10-29,18:42,OUT
+E1009,Gabrielle Davis,Customer Service,2026-10-29,08:28,IN
+E1009,Gabrielle Davis,Customer Service,29/10/2026,16:16,OUT
+E1010,Ryan Munoz,Warehouse,Oct 29 2026,06:22,IN
+E1010,Ryan Munoz,Warehouse,Oct 29 2026,17:50,OUT
+E1011,MONICA HERRERA  ,Customer Service,2026-10-29,06:03,IN
+E1012,Jamie Arnold,Customer Service,29/10/2026,07:56,IN
+E1012,Jamie Arnold,Customer Service,2026-10-29,17:31,OUT
+E1013,Lisa Hensley,HR,29/10/2026,08:34,IN
+E1013,Lisa Hensley  ,HR,29/10/2026,17:06,OUT
+E1014,MICHELE   WILLIAMS,Warehouse,Oct 29 2026,07:10,IN
+E1014,Michele Williams,Warehouse,Oct 29 2026,17:04,OUT
+E1015,  Dylan Miller,HR,Oct 29 2026,06:18,IN
+E1015,Dylan Miller,HR,2026-10-29,16:20,OUT
+E1016,Brian Ramirez,Finance,Oct 29 2026,06:04,IN
+E1016,Brian Ramirez,Finance,Oct 29 2026,17:10,OUT
+E1017,Holly Wood,Warehouse,2026-10-29,07:46,IN
+E1017,Holly Wood,Warehouse,2026-10-29,16:35,OUT
+E1018,Derek Zuniga,Warehouse,2026-10-29,06:21,IN
+E1018,Derek Zuniga,Warehouse,Oct 29 2026,18:39,OUT
+E1019,Lisa Jackson,Warehouse,29/10/2026,06:27,IN
+E1019,Lisa Jackson,Warehouse,Oct 29 2026,18:10,OUT
+E1020,Carla Gray,Dispatch,29/10/2026,09:10,IN
+E1020,Carla Gray,Dispatch,2026-10-29,16:06,OUT
+E1021,Margaret Hawkins DDS,Dispatch,Oct 29 2026,07:26,IN
+E1021,Margaret Hawkins DDS,Dispatch,Oct 29 2026,18:35,OUT
+E1022,Patty   Perez,HR,29/10/2026,08:42,IN
+E1022,Patty Perez,HR,Oct 29 2026,17:19,OUT
+E1023,Ethan Adams,HR,Oct 29 2026,06:25,IN
+E1023,Ethan Adams,HR,Oct 29 2026,18:35,OUT
+E1024,Tommy Walter,Warehouse,2026-10-29,07:03,IN
+E1024,tommy walter  ,Warehouse,29/10/2026,17:00,OUT
+E1025,Matthew Foster,HR,Oct 29 2026,08:52,IN
+E1025,Matthew Foster,HR,29/10/2026,18:40,OUT
+E1026,Judy Baker,Dispatch,2026-10-29,07:06,IN
+E1026,Judy Baker,Dispatch,2026-10-29,16:13,OUT
+E1027,Justin Baker,Customer Service,29/10/2026,08:05,IN
+E1027,Justin Baker,Customer Service,Oct 29 2026,17:54,OUT
+E1028,Stephanie Ross,Customer Service,Oct 29 2026,09:30,IN
+E1028,Stephanie Ross,Customer Service,2026-10-29,17:57,OUT
+E1029,  zachary hicks,Customer Service,2026-10-29,06:41,IN
+E1029,Zachary Hicks,Customer Service,2026-10-29,18:24,OUT
+E1030,  Anthony Rodriguez,HR,2026-10-29,09:23,IN
+E1030,ANTHONY   RODRIGUEZ,HR,Oct 29 2026,16:28,OUT
+E1032,James Ferrell,Dispatch,2026-10-29,08:14,IN
+E1032,James Ferrell,Dispatch,29/10/2026,17:36,OUT
+E1033,Tricia Valencia,Finance,29/10/2026,06:05,IN
+E1033,Tricia Valencia,Finance,29/10/2026,18:22,OUT
+E1034,Nathan Maldonado,HR,Oct 29 2026,09:48,IN
+E1034,Nathan Maldonado,HR,29/10/2026,18:14,OUT
+E1035,Debra Davidson,Drivers,29/10/2026,09:52,IN
+E1035,Debra Davidson,Drivers,Oct 29 2026,18:26,OUT
+E1036,Jeffrey Chavez,Warehouse,2026-10-29,09:36,IN
+E1036,Jeffrey Chavez,Warehouse,2026-10-29,16:30,OUT
+E1037,Sherri   Baker,Dispatch,2026-10-29,09:57,IN
+E1037,sherri baker  ,Dispatch,2026-10-29,18:02,OUT
+E1038,Cassandra Gaines,Customer Service,2026-10-29,07:07,IN
+E1038,Cassandra Gaines,Customer Service,Oct 29 2026,17:11,OUT
+E1039,Elizabeth Fowler,Finance,29/10/2026,07:13,IN
+E1039,Elizabeth Fowler,Finance,2026-10-29,16:08,OUT
+E1001,Allison Hill,Customer Service,30/10/2026,09:12,IN
+E1001,  ALLISON HILL,Customer Service,30/10/2026,18:09,OUT
+E1001,  ALLISON HILL,Customer Service,30/10/2026,18:09,OUT
+E1002,Noah Rhodes,Warehouse,30/10/2026,08:20,IN
+E1002,Noah Rhodes,Warehouse,Oct 30 2026,18:58,OUT
+E1003,Angie Henderson,Warehouse,2026-10-30,06:24,IN
+E1003,Angie Henderson,Warehouse,Oct 30 2026,18:25,OUT
+E1004,Daniel Wagner,Customer Service,30/10/2026,08:33,IN
+E1004,Daniel Wagner,Customer Service,2026-10-30,17:58,OUT
+E1005,Cristian Santos,Drivers,2026-10-30,09:07,IN
+E1005,  Cristian Santos,Drivers,Oct 30 2026,17:09,OUT
+E1006,Connie Lawrence,Dispatch,Oct 30 2026,06:59,IN
+E1006,Connie Lawrence,Dispatch,30/10/2026,16:36,OUT
+E1007,Abigail Shaffer,Dispatch,30/10/2026,08:55,IN
+E1007,Abigail Shaffer,Dispatch,30/10/2026,18:56,OUT
+E1008,Gina Moore,Dispatch,30/10/2026,09:16,IN
+E1008,Gina Moore,Dispatch,2026-10-30,17:41,OUT
+E1009,Gabrielle Davis,Customer Service,Oct 30 2026,09:02,IN
+E1009,Gabrielle Davis,Customer Service,Oct 30 2026,16:17,OUT
+E1010,Ryan Munoz,Warehouse,2026-10-30,09:02,IN
+E1010,Ryan Munoz,Warehouse,2026-10-30,09:02,IN
+E1010,Ryan Munoz,Warehouse,2026-10-30,17:56,OUT
+E1011,Monica Herrera,Customer Service,Oct 30 2026,07:03,IN
+E1012,Jamie Arnold,Customer Service,30/10/2026,08:01,IN
+E1012,Jamie Arnold,Customer Service,Oct 30 2026,17:52,OUT
+E1013,Lisa Hensley,HR,Oct 30 2026,08:17,IN
+E1013,Lisa Hensley,HR,Oct 30 2026,17:54,OUT
+E1014,Michele Williams,Warehouse,2026-10-30,06:55,IN
+E1015,Dylan Miller,HR,2026-10-30,09:49,IN
+E1015,Dylan Miller,HR,2026-10-30,17:17,OUT
+E1016,BRIAN RAMIREZ  ,Finance,2026-10-30,06:12,IN
+E1016,Brian Ramirez,Finance,2026-10-30,17:13,OUT
+E1017,Holly Wood,Warehouse,Oct 30 2026,09:47,IN
+E1017,Holly Wood,Warehouse,30/10/2026,17:48,OUT
+E1018,Derek Zuniga,Warehouse,2026-10-30,08:52,IN
+E1018,Derek Zuniga,Warehouse,2026-10-30,16:32,OUT
+E1019,Lisa Jackson,Warehouse,2026-10-30,06:19,IN
+E1020,Carla Gray,Dispatch,Oct 30 2026,06:11,IN
+E1020,Carla Gray,Dispatch,Oct 30 2026,16:56,OUT
+E1021,Margaret Hawkins DDS,Dispatch,Oct 30 2026,06:15,IN
+E1021,Margaret Hawkins DDS,Dispatch,30/10/2026,16:29,OUT
+E1022,Patty Perez,HR,30/10/2026,08:45,IN
+E1022,Patty Perez,HR,2026-10-30,16:17,OUT
+E1023,Ethan Adams,HR,2026-10-30,09:32,IN
+E1023,Ethan Adams,HR,2026-10-30,09:32,IN
+E1023,Ethan Adams  ,HR,2026-10-30,17:40,OUT
+E1024,Tommy Walter,Warehouse,30/10/2026,06:15,IN
+E1024,Tommy Walter,Warehouse,2026-10-30,17:31,OUT
+E1025,Matthew Foster,HR,2026-10-30,07:55,IN
+E1025,Matthew Foster,HR,Oct 30 2026,17:37,OUT
+E1026,Judy Baker,Dispatch,30/10/2026,08:10,IN
+E1026,Judy Baker,Dispatch,Oct 30 2026,17:47,OUT
+E1027,JUSTIN BAKER  ,Customer Service,Oct 30 2026,06:18,IN
+E1027,Justin Baker,Customer Service,Oct 30 2026,16:24,OUT
+E1029,Zachary Hicks,Customer Service,Oct 30 2026,07:54,IN
+E1029,Zachary Hicks  ,Customer Service,Oct 30 2026,16:41,OUT
+E1030,Anthony Rodriguez,HR,Oct 30 2026,07:17,IN
+E1030,Anthony Rodriguez,HR,Oct 30 2026,18:26,OUT
+E1031,Rebecca Henderson,Finance,2026-10-30,06:30,IN
+E1031,Rebecca Henderson,Finance,30/10/2026,16:41,OUT
+E1032,James Ferrell,Dispatch,Oct 30 2026,06:14,IN
+E1032,James Ferrell,Dispatch,Oct 30 2026,17:38,OUT
+E1033,Tricia Valencia,Finance,30/10/2026,08:45,IN
+E1033,Tricia Valencia,Finance,2026-10-30,18:41,OUT
+E1034,Nathan Maldonado,HR,2026-10-30,09:54,IN
+E1034,Nathan Maldonado,HR,30/10/2026,17:29,OUT
+E1035,Debra Davidson,Drivers,30/10/2026,09:19,IN
+E1035,Debra Davidson,Drivers,30/10/2026,18:33,OUT
+E1036,Jeffrey Chavez,Warehouse,30/10/2026,09:37,IN
+E1036,Jeffrey Chavez,Warehouse,2026-10-30,16:00,OUT
+E1037,Sherri Baker,Dispatch,30/10/2026,08:35,IN
+E1037,Sherri Baker,Dispatch,Oct 30 2026,18:38,OUT
+E1038,Cassandra Gaines,Customer Service,2026-10-30,08:43,IN
+E1038,Cassandra Gaines,Customer Service,30/10/2026,16:30,OUT
+E1039,Elizabeth Fowler,Finance,30/10/2026,08:40,IN
+E1039,Elizabeth Fowler,Finance,2026-10-30,17:55,OUT
+E1040,Brittany Farmer,Drivers,2026-10-30,08:12,IN
+E1040,  Brittany Farmer,Drivers,Oct 30 2026,16:33,OUT
+E1002,Noah Rhodes,Warehouse,25/10/2026,08:16,IN
+E1027,Justin Baker,Customer Service,24/10/2026,08:47,IN
+E1003,Angie Henderson,Warehouse,Oct 11 2026,08:46,IN
