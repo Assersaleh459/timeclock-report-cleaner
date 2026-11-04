@@ -31,6 +31,12 @@ def punch(emp, day, hour, minute, kind):
     return {**emp, "Date": day, "Time": f"{hour:02d}:{minute:02d}", "PunchType": kind}
 
 
+def arrival():
+    """(hour, minute): ~85% arrive 07:30-08:30, the rest 08:31-09:30."""
+    minutes = random.randint(450, 510) if random.random() < 0.85 else random.randint(511, 570)
+    return divmod(minutes, 60)
+
+
 # Clean data: weekday IN/OUT pairs, with the odd absence
 rows = []
 days = [START + timedelta(n) for n in range((END - START).days + 1)]
@@ -38,7 +44,7 @@ for day in (d for d in days if d.weekday() < 5):
     for emp in employees:
         if random.random() < 0.05:
             continue
-        rows.append(punch(emp, day, random.randint(6, 9), random.randint(0, 59), "IN"))
+        rows.append(punch(emp, day, *arrival(), "IN"))
         rows.append(punch(emp, day, random.randint(16, 18), random.randint(0, 59), "OUT"))
 
 # Missing OUT punches
