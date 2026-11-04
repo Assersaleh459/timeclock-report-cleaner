@@ -1,8 +1,14 @@
-# Time-Clock Report Cleaner
+# Time-Clock Cleaner & Excel Attendance Report
 
-Turns a messy employee time-clock export into a clean file you can trust. It also writes a log of every problem it found and what it did about it.
+Turns a messy employee time-clock export into a clean file you can trust, and builds an Excel attendance report from it. It also writes a log of every problem it found and what it did about it.
 
 Payroll errors often start with bad punch data: duplicate swipes, missing clock-outs, typos in names, and dates in three different formats. This tool fixes what can be fixed safely and flags the rest for a person to review. Nothing is changed silently.
+
+## Screenshots
+
+![Summary](docs/summary.png)
+
+![Daily Detail](docs/daily_detail.png)
 
 ## Before and after
 
@@ -42,9 +48,25 @@ RowNumber,EmpID,Name,Date,Problem,ActionTaken
 | Weekend punches | Keeps them and flags them for review |
 | Clock-in with no clock-out, or the reverse | Keeps the punch and flags the day |
 
+## The Excel report
+
+`report.py` turns the cleaned data into `output/attendance_report.xlsx`, with five sheets:
+
+| Sheet | What it shows |
+|---|---|
+| Summary | Headline numbers for the month: employee-days, total hours, late arrivals and incomplete days |
+| Employee Hours | One row per employee with their total hours, days worked, late arrivals and incomplete days |
+| Daily Detail | One row per employee per day, with clock-in, clock-out and hours worked |
+| Issues Log | Every problem the cleaner found, with the action taken |
+| Settings | The work start time and break length that the report uses |
+
+The totals are live Excel formulas, not fixed numbers. If you change the work start time or the break length on the Settings sheet, the late arrivals and hours update across the whole workbook.
+
 ## Results on the sample data
 
 The sample file covers 40 employees over October 2026.
+
+**Cleaner**
 
 | | Count |
 |---|---|
@@ -58,6 +80,15 @@ The sample file covers 40 employees over October 2026.
 | Weekend punches flagged | 3 |
 | Missing clock-ins flagged | 1 |
 
+**Excel report**
+
+| | Value |
+|---|---|
+| Employee-days | 842 |
+| Total hours | 6,917.46 |
+| Late arrivals | 130 |
+| Incomplete days | 16 |
+
 ## How to run it
 
 You need Python 3.10 or newer.
@@ -69,9 +100,10 @@ pip install -r requirements.txt
 
 python generate_data.py      # optional: rebuilds the sample data
 python clean.py
+python report.py
 ```
 
-The cleaner reads `data/raw_timeclock.csv` and writes both output files to `output/`. It prints a short summary when it finishes.
+The cleaner reads `data/raw_timeclock.csv` and writes the clean file and the issues log to `output/`. The report script then reads those files and writes the Excel workbook to `output/`. Each script prints a short summary when it finishes.
 
 If an output file is open in Excel, the script asks you to close it instead of crashing.
 
@@ -84,7 +116,13 @@ All names and records are fake. `generate_data.py` creates them for a fictional 
 | File | Purpose |
 |---|---|
 | `clean.py` | The cleaner |
+| `report.py` | Builds the Excel attendance report |
 | `generate_data.py` | Builds the messy sample file |
 | `data/raw_timeclock.csv` | Sample input |
 | `output/clean_timeclock.csv` | Cleaned result |
 | `output/issues_log.csv` | Every problem found, with the action taken |
+| `output/attendance_report.xlsx` | The Excel attendance report |
+
+## License
+
+MIT. See [LICENSE](LICENSE).
