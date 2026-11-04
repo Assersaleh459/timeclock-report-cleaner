@@ -44,7 +44,14 @@ raw_names = df["Name"]
 df["Name"] = df["Name"].str.strip().str.replace(r"\s+", " ", regex=True).str.title()
 names_normalized = int((df["Name"] != raw_names).sum())
 
-# 2. Blank EmpID: recover from the name if it maps to exactly one ID, otherwise drop
+# 2. Dates: parse the three known formats into YYYY-MM-DD (unparseable rows are logged with their original text)
+parsed = df["Date"].map(parse_date)
+bad_date = parsed.isna()
+log(df[bad_date], "Unparseable date", "Dropped row")
+df = df[~bad_date].copy()
+df["Date"] = parsed[~bad_date]
+
+# 3. Blank EmpID: recover from the name if it maps to exactly one ID, otherwise drop
 ids_by_name = df[df["EmpID"] != ""].groupby("Name")["EmpID"].agg(lambda s: set(s)).to_dict()
 blank = df[df["EmpID"] == ""]
 candidates = blank["Name"].map(lambda n: ids_by_name.get(n, set()))
@@ -54,13 +61,6 @@ log(df.loc[recoverable[recoverable].index], "Blank EmpID", "Recovered EmpID from
 unrecoverable = recoverable[~recoverable].index
 log(df.loc[unrecoverable], "Blank EmpID", "Dropped row - name matches no single employee")
 df = df.drop(unrecoverable)
-
-# 3. Dates: parse the three known formats into YYYY-MM-DD
-parsed = df["Date"].map(parse_date)
-bad_date = parsed.isna()
-log(df[bad_date], "Unparseable date", "Dropped row")
-df = df[~bad_date].copy()
-df["Date"] = parsed[~bad_date]
 
 # 4. Times: hour must be 0-23 and minute 0-59 (malformed times fail the same check)
 hm = df["Time"].str.split(":", expand=True).apply(pd.to_numeric, errors="coerce")

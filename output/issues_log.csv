@@ -1,82 +1,82 @@
 RowNumber,EmpID,Name,Date,Problem,ActionTaken
-6,E1002,Noah Rhodes,2026-10-01,Duplicate punch,Dropped duplicate row
-53,E1025,Matthew Foster,2026-10-01,Duplicate punch,Dropped duplicate row
-120,E1021,Margaret Hawkins Dds,2026-10-02,Missing OUT punch,Kept IN punch
-124,E1023,Ethan Adams,2026-10-02,Duplicate punch,Dropped duplicate row
-185,E1014,Michele Williams,2026-10-05,Duplicate punch,Dropped duplicate row
-205,E1024,Tommy Walter,2026-10-05,Blank EmpID,Recovered EmpID from name
-230,E1037,Sherri Baker,2026-10-05,Duplicate punch,Dropped duplicate row
-250,E1007,Abigail Shaffer,2026-10-06,Duplicate punch,Dropped duplicate row
-274,E1019,Lisa Jackson,2026-10-06,Duplicate punch,Dropped duplicate row
-294,E1030,Anthony Rodriguez,2026-10-06,Missing OUT punch,Kept IN punch
-378,E1032,James Ferrell,2026-10-07,Duplicate punch,Dropped duplicate row
-380,E1033,Tricia Valencia,2026-10-07,Blank EmpID,Recovered EmpID from name
-407,E1006,Connie Lawrence,2026-10-08,Duplicate punch,Dropped duplicate row
-440,E1022,Patty Perez,2026-10-08,Duplicate punch,Dropped duplicate row
-442,E1022,Patty Perez,2026-10-08,Duplicate punch,Dropped duplicate row
-467,E1036,Jeffrey Chavez,2026-10-08,Missing OUT punch,Kept IN punch
-468,E1036,Jeffrey Chavez,2026-10-08,Impossible time,Dropped row
-490,E1007,Abigail Shaffer,2026-10-09,Duplicate punch,Dropped duplicate row
-504,E1014,Michele Williams,2026-10-09,Missing OUT punch,Kept IN punch
-546,E1037,Sherri Baker,2026-10-09,Duplicate punch,Dropped duplicate row
-604,E1025,Matthew Foster,2026-10-12,Duplicate punch,Dropped duplicate row
-611,E1028,Stephanie Ross,2026-10-12,Duplicate punch,Dropped duplicate row
-618,E1033,Tricia Valencia,12/10/2026,Blank EmpID,Recovered EmpID from name
-666,E1017,Holly Wood,2026-10-13,Duplicate punch,Dropped duplicate row
-669,E1019,Lisa Jackson,2026-10-13,Missing OUT punch,Kept IN punch
-743,E1017,Holly Wood,2026-10-14,Duplicate punch,Dropped duplicate row
-841,E1028,Stephanie Ross,2026-10-15,Missing OUT punch,Kept IN punch
-867,E1001,Allison Hill,2026-10-16,Duplicate punch,Dropped duplicate row
-895,E1015,Dylan Miller,2026-10-16,Duplicate punch,Dropped duplicate row
-974,E1016,Brian Ramirez,2026-10-19,Duplicate punch,Dropped duplicate row
-1013,E1035,Debra Davidson,2026-10-19,Duplicate punch,Dropped duplicate row
-1032,E1005,Cristian Santos,2026-10-20,Duplicate punch,Dropped duplicate row
-1041,E1009,Gabrielle Davis,2026-10-20,Duplicate punch,Dropped duplicate row
-1045,E1011,Monica Herrera,2026-10-20,Duplicate punch,Dropped duplicate row
-1091,E1033,Tricia Valencia,2026-10-20,Duplicate punch,Dropped duplicate row
-1102,E1038,Cassandra Gaines,2026-10-20,Duplicate punch,Dropped duplicate row
-1105,E1039,Elizabeth Fowler,2026-10-20,Duplicate punch,Dropped duplicate row
-1113,E1003,Angie Henderson,2026-10-21,Duplicate punch,Dropped duplicate row
-1123,E1008,Gina Moore,2026-10-21,Missing OUT punch,Kept IN punch
-1124,E1008,Gina Moore,2026-10-21,Impossible time,Dropped row
-1173,E1036,Jeffrey Chavez,21/10/2026,Blank EmpID,Recovered EmpID from name
-1183,E1040,Brittany Farmer,2026-10-21,Duplicate punch,Dropped duplicate row
-1202,E1009,Gabrielle Davis,2026-10-22,Duplicate punch,Dropped duplicate row
-1210,E1013,Lisa Hensley,2026-10-22,Duplicate punch,Dropped duplicate row
-1256,E1036,Jeffrey Chavez,2026-10-22,Missing OUT punch,Kept IN punch
-1272,E1005,Cristian Santos,2026-10-23,Duplicate punch,Dropped duplicate row
-1281,E1009,Gabrielle Davis,2026-10-23,Duplicate punch,Dropped duplicate row
-1284,E1010,Ryan Munoz,2026-10-23,Duplicate punch,Dropped duplicate row
-1290,E1012,Jamie Arnold,2026-10-23,Duplicate punch,Dropped duplicate row
-1296,E1015,Dylan Miller,2026-10-23,Duplicate punch,Dropped duplicate row
-1315,E1024,Tommy Walter,2026-10-23,Duplicate punch,Dropped duplicate row
-1320,E1026,Judy Baker,2026-10-23,Duplicate punch,Dropped duplicate row
-1329,E1030,Anthony Rodriguez,2026-10-23,Duplicate punch,Dropped duplicate row
-1336,E1033,Tricia Valencia,2026-10-23,Duplicate punch,Dropped duplicate row
-1388,E1019,Lisa Jackson,26/10/2026,Blank EmpID,Recovered EmpID from name
-1388,E1019,Lisa Jackson,2026-10-26,Missing OUT punch,Kept IN punch
-1429,E1002,Noah Rhodes,2026-10-27,Missing OUT punch,Kept IN punch
-1446,E1011,Monica Herrera,2026-10-27,Missing OUT punch,Kept IN punch
-1447,E1011,Monica Herrera,2026-10-27,Impossible time,Dropped row
-1453,E1015,Dylan Miller,2026-10-27,Duplicate punch,Dropped duplicate row
-1469,E1022,Patty Perez,2026-10-27,Duplicate punch,Dropped duplicate row
-1492,E1033,Tricia Valencia,2026-10-27,Duplicate punch,Dropped duplicate row
-1497,E1035,Debra Davidson,2026-10-27,Duplicate punch,Dropped duplicate row
-1506,E1040,Brittany Farmer,2026-10-27,Impossible time,Dropped row
-1507,E1040,Brittany Farmer,2026-10-27,Missing IN punch,Kept OUT punch
-1529,E1012,Jamie Arnold,2026-10-28,Duplicate punch,Dropped duplicate row
-1541,E1017,Holly Wood,2026-10-28,Duplicate punch,Dropped duplicate row
-1543,E1018,Derek Zuniga,2026-10-28,Duplicate punch,Dropped duplicate row
-1607,E1011,Monica Herrera,2026-10-29,Missing OUT punch,Kept IN punch
-1664,E1001,Allison Hill,2026-10-30,Duplicate punch,Dropped duplicate row
-1682,E1010,Ryan Munoz,2026-10-30,Duplicate punch,Dropped duplicate row
-1684,E1011,Monica Herrera,2026-10-30,Missing OUT punch,Kept IN punch
-1689,E1014,Michele Williams,2026-10-30,Missing OUT punch,Kept IN punch
-1698,E1019,Lisa Jackson,2026-10-30,Missing OUT punch,Kept IN punch
-1706,E1023,Ethan Adams,2026-10-30,Duplicate punch,Dropped duplicate row
-1740,E1002,Noah Rhodes,2026-10-25,Weekend punch - needs review,Kept
-1740,E1002,Noah Rhodes,2026-10-25,Missing OUT punch,Kept IN punch
-1741,E1027,Justin Baker,2026-10-24,Weekend punch - needs review,Kept
-1741,E1027,Justin Baker,2026-10-24,Missing OUT punch,Kept IN punch
-1742,E1003,Angie Henderson,2026-10-11,Weekend punch - needs review,Kept
-1742,E1003,Angie Henderson,2026-10-11,Missing OUT punch,Kept IN punch
+92,E1005,Cristian Santos,2026-10-02,Duplicate punch,Dropped duplicate row
+109,E1013,Lisa Hensley,2026-10-02,Duplicate punch,Dropped duplicate row
+179,E1011,Monica Herrera,2026-10-05,Duplicate punch,Dropped duplicate row
+190,E1016,Brian Ramirez,2026-10-05,Duplicate punch,Dropped duplicate row
+193,E1017,Holly Wood,2026-10-05,Duplicate punch,Dropped duplicate row
+241,E1001,Allison Hill,2026-10-06,Duplicate punch,Dropped duplicate row
+262,E1011,Monica Herrera,2026-10-06,Duplicate punch,Dropped duplicate row
+279,E1021,Margaret Hawkins Dds,2026-10-06,Blank EmpID,Recovered EmpID from name
+306,E1034,Nathan Maldonado,2026-10-06,Duplicate punch,Dropped duplicate row
+318,E1040,Brittany Farmer,2026-10-06,Duplicate punch,Dropped duplicate row
+339,E1010,Ryan Munoz,2026-10-07,Duplicate punch,Dropped duplicate row
+345,E1013,Lisa Hensley,2026-10-07,Duplicate punch,Dropped duplicate row
+347,E1014,Michele Williams,2026-10-07,Missing OUT punch,Kept IN punch
+349,E1015,Dylan Miller,2026-10-07,Duplicate punch,Dropped duplicate row
+364,E1022,Patty Perez,2026-10-07,Duplicate punch,Dropped duplicate row
+369,E1025,Matthew Foster,2026-10-07,Blank EmpID,Recovered EmpID from name
+376,E1029,Zachary Hicks,2026-10-07,Missing OUT punch,Kept IN punch
+382,E1032,James Ferrell,2026-10-07,Duplicate punch,Dropped duplicate row
+438,E1021,Margaret Hawkins Dds,2026-10-08,Missing OUT punch,Kept IN punch
+439,E1021,Margaret Hawkins Dds,2026-10-08,Impossible time,Dropped row
+529,E1028,Stephanie Ross,2026-10-09,Duplicate punch,Dropped duplicate row
+543,E1035,Debra Davidson,2026-10-09,Missing OUT punch,Kept IN punch
+568,E1010,Ryan Munoz,2026-10-12,Impossible time,Dropped row
+569,E1010,Ryan Munoz,2026-10-12,Missing IN punch,Kept OUT punch
+609,E1030,Anthony Rodriguez,2026-10-12,Duplicate punch,Dropped duplicate row
+649,E1011,Monica Herrera,2026-10-13,Duplicate punch,Dropped duplicate row
+653,E1013,Lisa Hensley,2026-10-13,Duplicate punch,Dropped duplicate row
+684,E1028,Stephanie Ross,2026-10-13,Duplicate punch,Dropped duplicate row
+708,E1039,Elizabeth Fowler,2026-10-13,Duplicate punch,Dropped duplicate row
+723,E1007,Abigail Shaffer,2026-10-14,Missing OUT punch,Kept IN punch
+734,E1013,Lisa Hensley,2026-10-14,Missing OUT punch,Kept IN punch
+766,E1031,Rebecca Henderson,2026-10-14,Duplicate punch,Dropped duplicate row
+780,E1039,Elizabeth Fowler,2026-10-14,Missing OUT punch,Kept IN punch
+799,E1008,Gina Moore,2026-10-15,Duplicate punch,Dropped duplicate row
+804,E1010,Ryan Munoz,2026-10-15,Duplicate punch,Dropped duplicate row
+812,E1014,Michele Williams,2026-10-15,Duplicate punch,Dropped duplicate row
+886,E1011,Monica Herrera,2026-10-16,Duplicate punch,Dropped duplicate row
+933,E1038,Cassandra Gaines,2026-10-16,Missing OUT punch,Kept IN punch
+941,E1002,Noah Rhodes,2026-10-19,Duplicate punch,Dropped duplicate row
+949,E1005,Cristian Santos,2026-10-19,Duplicate punch,Dropped duplicate row
+992,E1028,Stephanie Ross,2026-10-19,Missing OUT punch,Kept IN punch
+1021,E1004,Daniel Wagner,2026-10-20,Missing OUT punch,Kept IN punch
+1077,E1035,Debra Davidson,2026-10-20,Duplicate punch,Dropped duplicate row
+1103,E1008,Gina Moore,2026-10-21,Duplicate punch,Dropped duplicate row
+1150,E1034,Nathan Maldonado,2026-10-21,Missing OUT punch,Kept IN punch
+1159,E1038,Cassandra Gaines,2026-10-21,Duplicate punch,Dropped duplicate row
+1191,E1014,Michele Williams,2026-10-22,Duplicate punch,Dropped duplicate row
+1223,E1030,Anthony Rodriguez,2026-10-22,Missing OUT punch,Kept IN punch
+1238,E1038,Cassandra Gaines,2026-10-22,Missing OUT punch,Kept IN punch
+1264,E1013,Lisa Hensley,2026-10-23,Blank EmpID,Recovered EmpID from name
+1287,E1024,Tommy Walter,2026-10-23,Duplicate punch,Dropped duplicate row
+1317,E1039,Elizabeth Fowler,2026-10-23,Duplicate punch,Dropped duplicate row
+1334,E1007,Abigail Shaffer,2026-10-26,Duplicate punch,Dropped duplicate row
+1361,E1020,Carla Gray,2026-10-26,Blank EmpID,Recovered EmpID from name
+1365,E1022,Patty Perez,2026-10-26,Duplicate punch,Dropped duplicate row
+1371,E1025,Matthew Foster,2026-10-26,Impossible time,Dropped row
+1372,E1025,Matthew Foster,2026-10-26,Missing IN punch,Kept OUT punch
+1388,E1033,Tricia Valencia,2026-10-26,Duplicate punch,Dropped duplicate row
+1424,E1011,Monica Herrera,2026-10-27,Missing OUT punch,Kept IN punch
+1425,E1011,Monica Herrera,2026-10-27,Impossible time,Dropped row
+1455,E1027,Justin Baker,2026-10-27,Duplicate punch,Dropped duplicate row
+1486,E1003,Angie Henderson,2026-10-28,Duplicate punch,Dropped duplicate row
+1489,E1004,Daniel Wagner,2026-10-28,Duplicate punch,Dropped duplicate row
+1499,E1008,Gina Moore,2026-10-28,Duplicate punch,Dropped duplicate row
+1501,E1009,Gabrielle Davis,2026-10-28,Duplicate punch,Dropped duplicate row
+1515,E1016,Brian Ramirez,2026-10-28,Duplicate punch,Dropped duplicate row
+1533,E1026,Judy Baker,2026-10-28,Duplicate punch,Dropped duplicate row
+1541,E1029,Zachary Hicks,2026-10-28,Duplicate punch,Dropped duplicate row
+1548,E1032,James Ferrell,2026-10-28,Duplicate punch,Dropped duplicate row
+1621,E1032,James Ferrell,2026-10-29,Duplicate punch,Dropped duplicate row
+1623,E1033,Tricia Valencia,2026-10-29,Duplicate punch,Dropped duplicate row
+1625,E1033,Tricia Valencia,2026-10-29,Duplicate punch,Dropped duplicate row
+1671,E1016,Brian Ramirez,2026-10-30,Duplicate punch,Dropped duplicate row
+1683,E1021,Margaret Hawkins Dds,2026-10-30,Duplicate punch,Dropped duplicate row
+1692,E1026,Judy Baker,2026-10-30,Blank EmpID,Recovered EmpID from name
+1718,E1006,Connie Lawrence,2026-10-17,Weekend punch - needs review,Kept
+1718,E1006,Connie Lawrence,2026-10-17,Missing OUT punch,Kept IN punch
+1719,E1004,Daniel Wagner,2026-10-10,Weekend punch - needs review,Kept
+1719,E1004,Daniel Wagner,2026-10-10,Missing OUT punch,Kept IN punch
+1720,E1014,Michele Williams,2026-10-11,Weekend punch - needs review,Kept
+1720,E1014,Michele Williams,2026-10-11,Missing OUT punch,Kept IN punch
