@@ -5,7 +5,22 @@ from pathlib import Path
 
 import pandas as pd
 
-DATE_FORMATS = ["%Y-%m-%d", "%d/%m/%Y", "%b %d %Y"]
+# ---- Settings: adapt these to a new client file, nothing below needs to change ----
+INPUT_FILE = "data/raw_timeclock.csv"
+OUTPUT_DIR = "output"
+# Map the names this script uses (left) to the column names in the client's file (right)
+COLUMNS = {
+    "EmpID": "EmpID",
+    "Name": "Name",
+    "Department": "Department",
+    "Date": "Date",
+    "Time": "Time",
+    "PunchType": "PunchType",
+}
+PUNCH_IN, PUNCH_OUT = "IN", "OUT"  # the values used for clock-in and clock-out
+DATE_FORMATS = ["%Y-%m-%d", "%d/%m/%Y", "%b %d %Y"]  # every date format seen in the file
+# -----------------------------------------------------------------------------------
+
 issues = []
 
 
@@ -35,7 +50,12 @@ def parse_date(text):
 
 
 # Load everything as text; index = line number in the file (header is line 1)
-df = pd.read_csv("data/raw_timeclock.csv", dtype=str, keep_default_na=False)
+df = pd.read_csv(INPUT_FILE, dtype=str, keep_default_na=False)
+missing = [src for src in COLUMNS.values() if src not in df.columns]
+if missing:
+    print(f"Columns not found in {INPUT_FILE}: {missing}. Update COLUMNS at the top of this script.")
+    sys.exit(1)
+df = df[list(COLUMNS.values())].rename(columns={src: dst for dst, src in COLUMNS.items()})
 df.index = df.index + 2
 total_in = len(df)
 
@@ -78,21 +98,22 @@ weekend = pd.to_datetime(df["Date"]).dt.day_of_week >= 5
 log(df[weekend], "Weekend punch - needs review", "Kept")
 
 # 7. Missing OUT: employee/day with an IN but no OUT (one log entry per employee/day)
-has_out = df.groupby(["EmpID", "Date"])["PunchType"].transform(lambda s: (s == "OUT").any())
-missing_out = df[(df["PunchType"] == "IN") & ~has_out].drop_duplicates(["EmpID", "Date"])
+has_out = df.groupby(["EmpID", "Date"])["PunchType"].transform(lambda s: (s == PUNCH_OUT).any())
+missing_out = df[(df["PunchType"] == PUNCH_IN) & ~has_out].drop_duplicates(["EmpID", "Date"])
 log(missing_out, "Missing OUT punch", "Kept IN punch")
 
 # 8. Missing IN: employee/day with an OUT but no IN (one log entry per employee/day)
-has_in = df.groupby(["EmpID", "Date"])["PunchType"].transform(lambda s: (s == "IN").any())
-missing_in = df[(df["PunchType"] == "OUT") & ~has_in].drop_duplicates(["EmpID", "Date"])
+has_in = df.groupby(["EmpID", "Date"])["PunchType"].transform(lambda s: (s == PUNCH_IN).any())
+missing_in = df[(df["PunchType"] == PUNCH_OUT) & ~has_in].drop_duplicates(["EmpID", "Date"])
 log(missing_in, "Missing IN punch", "Kept OUT punch")
 
-# Write outputs
-Path("output").mkdir(exist_ok=True)
-save_csv(df, "output/clean_timeclock.csv")
+# Write outputs (punch words become IN/OUT so report.py works whatever the client's system calls them)
+df["PunchType"] = df["PunchType"].replace({PUNCH_IN: "IN", PUNCH_OUT: "OUT"})
+Path(OUTPUT_DIR).mkdir(exist_ok=True)
+save_csv(df, f"{OUTPUT_DIR}/clean_timeclock.csv")
 log_df = pd.DataFrame(issues, columns=["RowNumber", "EmpID", "Name", "Date", "Problem", "ActionTaken"])
 log_df = log_df.sort_values("RowNumber", kind="stable")
-save_csv(log_df, "output/issues_log.csv")
+save_csv(log_df, f"{OUTPUT_DIR}/issues_log.csv")
 
 # Summary
 print(f"Rows read: {total_in} | Rows written: {len(df)} | Issues logged: {len(log_df)}")
