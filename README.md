@@ -105,6 +105,17 @@ If an output file is open in Excel, the scripts ask you to close it instead of c
 
 The report's numbers are Excel formulas, so they appear once the file is opened in Excel or another spreadsheet app. Some file previews (including GitHub's) show those cells as empty.
 
+## Adapting it to your own file
+
+Open `clean.py`. The settings block at the top is the only part you need to touch:
+
+- `INPUT_FILE`: path to your export
+- `COLUMNS`: your file's column names, mapped to the ones the script uses
+- `PUNCH_IN` / `PUNCH_OUT`: the words your system uses for clock-in and clock-out
+- `DATE_FORMATS`: every date format that appears in your file
+
+If a column name is wrong, the script tells you which one before doing anything else.
+
 ## About the sample data
 
 All names and records are fake. `generate_data.py` creates them for a fictional company with a fixed random seed, so every run produces the same file. It adds the problems listed above on purpose, so the cleaner has something to find.
